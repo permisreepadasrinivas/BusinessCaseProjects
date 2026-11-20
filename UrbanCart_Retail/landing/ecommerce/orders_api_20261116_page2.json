@@ -1,0 +1,5946 @@
+{
+  "request_id": "req-488197546",
+  "page": 2,
+  "page_size": 200,
+  "total_pages": 2,
+  "next_cursor": null,
+  "extracted_at": "2026-11-16T23:30:00Z",
+  "data": [
+    {
+      "order_id": "WEB-2026-000181",
+      "created_at": "2026-11-14T22:20:00Z",
+      "updated_at": "2026-11-14T22:20:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000052",
+        "email": "mary.obrien19@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "U.S.",
+        "postcode": "53372"
+      },
+      "items": [
+        {
+          "sku": "SKU-10025",
+          "qty": 1,
+          "unit_price": 15.0
+        },
+        {
+          "sku": "SKU-10008",
+          "qty": 3,
+          "unit_price": 99.0
+        },
+        {
+          "sku": "SKU-10025",
+          "qty": 3,
+          "unit_price": 15.0
+        }
+      ],
+      "totals": {
+        "subtotal": 357.0,
+        "shipping_fee": 0.0,
+        "tax": 28.56,
+        "grand_total": 385.56
+      }
+    },
+    {
+      "order_id": "WEB-2026-000182",
+      "created_at": "2026-11-16T20:34:00Z",
+      "updated_at": "2026-11-16T20:34:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": null,
+        "email": "guest9042@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "GB",
+        "postcode": "67659"
+      },
+      "items": [
+        {
+          "sku": "SKU-10015",
+          "qty": 2,
+          "unit_price": 93.85
+        },
+        {
+          "sku": "SKU-10052",
+          "qty": 3,
+          "unit_price": 46.53,
+          "discount": 4.65
+        },
+        {
+          "sku": "sku-10043",
+          "qty": 2,
+          "unit_price": 9.46,
+          "discount": 0.95
+        }
+      ],
+      "totals": {
+        "subtotal": 330.36,
+        "shipping_fee": 0.0,
+        "tax": 26.43,
+        "grand_total": 356.79
+      }
+    },
+    {
+      "order_id": "WEB-2026-000183",
+      "created_at": 1794661800000,
+      "updated_at": null,
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000225",
+        "email": "diya.garcía59@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "U.S.",
+        "postcode": "19306"
+      },
+      "items": [
+        {
+          "sku": "SKU-10035",
+          "qty": 2,
+          "unit_price": 25.0
+        },
+        {
+          "sku": "SKU-10015",
+          "qty": 2,
+          "unit_price": 119.0
+        }
+      ],
+      "totals": {
+        "subtotal": 288.0,
+        "shipping_fee": 0.0,
+        "tax": 23.04,
+        "grand_total": 311.04
+      }
+    },
+    {
+      "order_id": "WEB-2026-000184",
+      "created_at": "2026-11-14T09:17:00Z",
+      "updated_at": "2026-11-14T09:17:00Z",
+      "status": "DELIVERED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": null,
+        "email": "guest9328@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "31373"
+      },
+      "items": [
+        {
+          "sku": "SKU-10053",
+          "qty": 1,
+          "unit_price": 17.35,
+          "discount": 1.74
+        },
+        {
+          "sku": "SKU-10043",
+          "qty": 2,
+          "unit_price": 9.46
+        },
+        {
+          "sku": "SKU-10001",
+          "qty": 2,
+          "unit_price": 46.53,
+          "discount": 4.65
+        }
+      ],
+      "totals": {
+        "subtotal": 118.29,
+        "shipping_fee": 7.88,
+        "tax": 9.46,
+        "grand_total": 149.19
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000185",
+      "created_at": "2026-11-14T09:30:00Z",
+      "updated_at": "2026-11-14T09:30:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": null,
+        "email": "guest7669@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "US",
+        "postcode": "78042"
+      },
+      "items": [
+        {
+          "sku": "SKU-10017",
+          "qty": 1,
+          "unit_price": 29.0
+        },
+        {
+          "sku": "SKU-10027",
+          "qty": 3,
+          "unit_price": 35.0
+        }
+      ],
+      "totals": {
+        "subtotal": 134.0,
+        "shipping_fee": 0.0,
+        "tax": 10.72,
+        "grand_total": 144.72
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000186",
+      "created_at": "2026-11-16T17:26:00Z",
+      "updated_at": "2026-11-16T17:26:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000403",
+        "email": "mia.almansouri81@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "54260"
+      },
+      "items": [
+        {
+          "sku": "sku-10004",
+          "qty": 1,
+          "unit_price": 117.51
+        },
+        {
+          "sku": "SKU-10043",
+          "qty": 2,
+          "unit_price": 9.46
+        },
+        {
+          "sku": "SKU-10013",
+          "qty": 2,
+          "unit_price": 38.64
+        }
+      ],
+      "totals": {
+        "subtotal": 213.71,
+        "shipping_fee": 0.0,
+        "tax": 17.1,
+        "grand_total": 230.81
+      }
+    },
+    {
+      "order_id": "WEB-2026-000187",
+      "created_at": "2026-11-17T03:19:00+05:30",
+      "updated_at": "2026-11-17T03:19:00+05:30",
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000073",
+        "email": "layla.taylor25@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Dubai",
+        "country": "UAE",
+        "postcode": "31145"
+      },
+      "items": [
+        {
+          "sku": "SKU-10022",
+          "qty": 3,
+          "unit_price": 216.67,
+          "discount": 21.67
+        }
+      ],
+      "totals": {
+        "subtotal": 585.0,
+        "shipping_fee": 36.69,
+        "tax": 46.8,
+        "grand_total": 668.49
+      },
+      "coupon_code": "WELCOME10"
+    },
+    {
+      "order_id": "WEB-2026-000188",
+      "created_at": 1794693180000,
+      "updated_at": null,
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000018",
+        "email": "linda.taylor61@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "US",
+        "postcode": "17492"
+      },
+      "items": [
+        {
+          "sku": "SKU-10005",
+          "qty": 3,
+          "unit_price": 45.0
+        }
+      ],
+      "totals": {
+        "subtotal": 135.0,
+        "shipping_fee": 9.99,
+        "tax": 10.8,
+        "grand_total": 155.79
+      }
+    },
+    {
+      "order_id": "WEB-2026-000189",
+      "created_at": "2026-11-14T00:03:00Z",
+      "updated_at": "2026-11-14T00:03:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000351",
+        "email": "isla.müller67@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "U.K.",
+        "postcode": "18068"
+      },
+      "items": [
+        {
+          "sku": "SKU-10038",
+          "qty": 1,
+          "unit_price": 11.04,
+          "discount": 1.1
+        },
+        {
+          "sku": "SKU-10015",
+          "qty": 2,
+          "unit_price": 93.85
+        }
+      ],
+      "totals": {
+        "subtotal": 197.64,
+        "shipping_fee": 0.0,
+        "tax": 15.81,
+        "grand_total": 213.45
+      }
+    },
+    {
+      "order_id": "WEB-2026-000190",
+      "created_at": "2026-11-16T22:51:00Z",
+      "updated_at": "2026-11-16T22:51:00Z",
+      "status": "DELIVERED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000225",
+        "email": "diya.garcía59@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "U.S.",
+        "postcode": "70121"
+      },
+      "items": [
+        {
+          "sku": "SKU-10020",
+          "qty": 3,
+          "unit_price": 18.0
+        },
+        {
+          "sku": "SKU-10038",
+          "qty": 2,
+          "unit_price": 14.0
+        }
+      ],
+      "totals": {
+        "subtotal": 82.0,
+        "shipping_fee": 9.99,
+        "tax": 6.56,
+        "grand_total": 98.55
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000191",
+      "created_at": 1794848160000,
+      "updated_at": null,
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000355",
+        "email": "isla.garcía52@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Dubai",
+        "country": "AE",
+        "postcode": "86474"
+      },
+      "items": [
+        {
+          "sku": "SKU-10041",
+          "qty": 1,
+          "unit_price": 33.05
+        }
+      ],
+      "totals": {
+        "subtotal": 33.05,
+        "shipping_fee": 18.33,
+        "tax": 2.64,
+        "grand_total": 54.02
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000192",
+      "created_at": "2026-11-15T19:43:00Z",
+      "updated_at": "2026-11-15T19:43:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000321",
+        "email": "mary.reddy15@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "UK",
+        "postcode": "66547"
+      },
+      "items": [
+        {
+          "sku": "SKU-10024",
+          "qty": 2,
+          "unit_price": 70.19,
+          "discount": 7.02
+        },
+        {
+          "sku": "SKU-10009",
+          "qty": 1,
+          "unit_price": 22.87
+        }
+      ],
+      "totals": {
+        "subtotal": 149.21,
+        "shipping_fee": 0.0,
+        "tax": 11.94,
+        "grand_total": 161.15
+      }
+    },
+    {
+      "order_id": "WEB-2026-000193",
+      "created_at": "2026-11-14T07:29:00Z",
+      "updated_at": "2026-11-14T07:29:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000137",
+        "email": "layla.brown55@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "postcode": "86907"
+      },
+      "items": [
+        {
+          "sku": "SKU-10060",
+          "qty": 3,
+          "unit_price": 58.76,
+          "discount": 5.88
+        },
+        {
+          "sku": "SKU-10040",
+          "qty": 1,
+          "unit_price": 77.12
+        },
+        {
+          "sku": "SKU-10039",
+          "qty": 2,
+          "unit_price": 179.95
+        }
+      ],
+      "totals": {
+        "subtotal": 595.66,
+        "shipping_fee": 18.33,
+        "tax": 47.65,
+        "grand_total": 661.64
+      }
+    },
+    {
+      "order_id": "WEB-2026-000194",
+      "created_at": 1794810780000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000033",
+        "email": "linda.müller68@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "GB",
+        "postcode": "19987"
+      },
+      "items": [
+        {
+          "sku": "SKU-10013",
+          "qty": 2,
+          "unit_price": 38.64
+        },
+        {
+          "sku": "SKU-10043",
+          "qty": 1,
+          "unit_price": 9.46,
+          "discount": 0.95
+        },
+        {
+          "sku": "SKU-10003",
+          "qty": 3,
+          "unit_price": 27.6
+        }
+      ],
+      "totals": {
+        "subtotal": 168.59,
+        "shipping_fee": 3.94,
+        "tax": 13.49,
+        "grand_total": 186.02
+      }
+    },
+    {
+      "order_id": "WEB-2026-000195",
+      "created_at": "2026-11-14T13:37:00Z",
+      "updated_at": "2026-11-14T13:37:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000291",
+        "email": "mia.johnson67@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IN",
+        "postcode": "54874"
+      },
+      "items": [
+        {
+          "sku": "SKU-10021",
+          "qty": 2,
+          "unit_price": 1603.38,
+          "discount": 160.34
+        },
+        {
+          "sku": "SKU-10004",
+          "qty": 3,
+          "unit_price": 12573.84,
+          "discount": 1257.38
+        },
+        {
+          "sku": "SKU-10037",
+          "qty": 3,
+          "unit_price": 2700.42,
+          "discount": 270.04
+        }
+      ],
+      "totals": {
+        "subtotal": 44126.6,
+        "shipping_fee": 843.04,
+        "tax": 3530.13,
+        "grand_total": 48499.77
+      }
+    },
+    {
+      "order_id": "WEB-2026-000196",
+      "created_at": "2026-11-14T19:25:00Z",
+      "updated_at": "2026-11-14T19:25:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000042",
+        "email": "chloé.iyer53@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "India",
+        "postcode": "40776"
+      },
+      "items": [
+        {
+          "sku": "SKU-10014",
+          "qty": 1,
+          "unit_price": 1603.38
+        }
+      ],
+      "totals": {
+        "subtotal": 1603.38,
+        "shipping_fee": 421.1,
+        "tax": 128.27,
+        "grand_total": 2152.75
+      }
+    },
+    {
+      "order_id": "WEB-2026-000197",
+      "created_at": "2026-11-14T06:28:00Z",
+      "updated_at": "2026-11-14T06:28:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000056",
+        "email": "chloé.johnson62@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "U.S.",
+        "postcode": "74173"
+      },
+      "items": [
+        {
+          "sku": "SKU-10032",
+          "qty": 2,
+          "unit_price": 18.0
+        },
+        {
+          "sku": "SKU-10041",
+          "qty": 3,
+          "unit_price": 9.0,
+          "discount": 0.9
+        }
+      ],
+      "totals": {
+        "subtotal": 60.3,
+        "shipping_fee": 4.99,
+        "tax": 4.82,
+        "grand_total": 70.11
+      }
+    },
+    {
+      "order_id": "WEB-2026-000198",
+      "created_at": "2026-11-16T03:58:00Z",
+      "updated_at": "2026-11-16T03:58:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000387",
+        "email": "david.smith44@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "U.K.",
+        "postcode": "51783"
+      },
+      "items": [
+        {
+          "sku": "SKU-10004",
+          "qty": 3,
+          "unit_price": 117.51
+        },
+        {
+          "sku": "SKU-10010",
+          "qty": 1,
+          "unit_price": 11.83,
+          "discount": 1.18
+        }
+      ],
+      "totals": {
+        "subtotal": 363.18,
+        "shipping_fee": 0.0,
+        "tax": 29.05,
+        "grand_total": 392.23
+      }
+    },
+    {
+      "order_id": "WEB-2026-000199",
+      "created_at": "2026-11-14T20:50:00Z",
+      "updated_at": "2026-11-14T20:50:00Z",
+      "status": "DELIVERED",
+      "channel": "app",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000280",
+        "email": "amelia.hassan34@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IND",
+        "postcode": "96406"
+      },
+      "items": [
+        {
+          "sku": "SKU-10023",
+          "qty": 2,
+          "unit_price": 4135.02,
+          "discount": 413.5
+        }
+      ],
+      "totals": {
+        "subtotal": 7443.04,
+        "shipping_fee": 0.0,
+        "tax": 595.44,
+        "grand_total": 8038.48
+      },
+      "coupon_code": "WELCOME10"
+    },
+    {
+      "order_id": "WEB-2026-000200",
+      "created_at": "2026-11-14T09:48:00Z",
+      "updated_at": "2026-11-14T09:48:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000325",
+        "email": "layla.brown95@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "USA",
+        "postcode": "94316"
+      },
+      "items": [
+        {
+          "sku": "SKU-10050",
+          "qty": 1,
+          "unit_price": 10.0
+        },
+        {
+          "sku": "SKU-10033",
+          "qty": 2,
+          "unit_price": 79.0
+        },
+        {
+          "sku": "SKU-10026",
+          "qty": 2,
+          "unit_price": 99.0
+        }
+      ],
+      "totals": {
+        "subtotal": 366.0,
+        "shipping_fee": 4.99,
+        "tax": 29.28,
+        "grand_total": 400.27
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000201",
+      "created_at": "2026-11-15T03:05:00Z",
+      "updated_at": "2026-11-15T03:05:00Z",
+      "status": "DELIVERED",
+      "channel": "app",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000140",
+        "email": "zoé.lee83@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "U.K.",
+        "postcode": "28361"
+      },
+      "items": [
+        {
+          "sku": "SKU-10021",
+          "qty": 3,
+          "unit_price": 14.98,
+          "discount": 1.5
+        },
+        {
+          "sku": "SKU-10012",
+          "qty": 2,
+          "unit_price": 30.76
+        },
+        {
+          "sku": "SKU-10037",
+          "qty": 2,
+          "unit_price": 25.24
+        }
+      ],
+      "totals": {
+        "subtotal": 152.44,
+        "shipping_fee": 0.0,
+        "tax": 12.2,
+        "grand_total": 164.64
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000202",
+      "created_at": "2026-11-14T09:19:00Z",
+      "updated_at": "2026-11-14T09:19:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": null,
+        "email": "guest5652@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "postcode": "88367"
+      },
+      "items": [
+        {
+          "sku": "SKU-10029",
+          "qty": 1,
+          "unit_price": 35.49
+        },
+        {
+          "sku": "SKU-10050",
+          "qty": 1,
+          "unit_price": 7.89
+        },
+        {
+          "sku": "SKU-10011",
+          "qty": "3",
+          "unit_price": 18.93
+        }
+      ],
+      "totals": {
+        "subtotal": 100.17,
+        "shipping_fee": 3.94,
+        "tax": 8.01,
+        "grand_total": 112.12
+      }
+    },
+    {
+      "order_id": "WEB-2026-000203",
+      "created_at": 1794790320000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000389",
+        "email": "josé.wilson72@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "82776"
+      },
+      "items": [
+        {
+          "sku": "SKU-10005",
+          "qty": 3,
+          "unit_price": 35.49
+        },
+        {
+          "sku": "SKU-10040",
+          "qty": 3,
+          "unit_price": 16.56
+        },
+        {
+          "sku": "SKU-10059",
+          "qty": 2,
+          "unit_price": 62.3,
+          "discount": 6.23
+        }
+      ],
+      "totals": {
+        "subtotal": 268.29,
+        "shipping_fee": 7.88,
+        "tax": 21.46,
+        "grand_total": 297.63
+      }
+    },
+    {
+      "order_id": "WEB-2026-000204",
+      "created_at": "2026-11-15T13:11:00Z",
+      "updated_at": "2026-11-15T13:11:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000369",
+        "email": "jennifer.müller63@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "USA",
+        "postcode": "39351"
+      },
+      "items": [
+        {
+          "sku": "SKU-10033",
+          "qty": 3,
+          "unit_price": 79.0
+        },
+        {
+          "sku": "SKU-10045",
+          "qty": 2,
+          "unit_price": 18.0
+        },
+        {
+          "sku": "SKU-10027",
+          "qty": 3,
+          "unit_price": 35.0,
+          "discount": 3.5
+        }
+      ],
+      "totals": {
+        "subtotal": 367.5,
+        "shipping_fee": 4.99,
+        "tax": 29.4,
+        "grand_total": 401.89
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000205",
+      "created_at": "2026-11-16T05:07:00Z",
+      "updated_at": "2026-11-16T05:07:00Z",
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": null,
+        "email": "guest1059@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "United States",
+        "postcode": "14113"
+      },
+      "items": [
+        {
+          "sku": "SKU-10023",
+          "qty": 3,
+          "unit_price": 49.0,
+          "discount": 4.9
+        }
+      ],
+      "totals": {
+        "subtotal": 132.3,
+        "shipping_fee": 0.0,
+        "tax": 10.58,
+        "grand_total": 142.88
+      }
+    },
+    {
+      "order_id": "WEB-2026-000206",
+      "created_at": "2026-11-15T04:58:00Z",
+      "updated_at": "2026-11-15T04:58:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": null,
+        "email": "guest6251@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "United States",
+        "postcode": "73248"
+      },
+      "items": [
+        {
+          "sku": "SKU-10014",
+          "qty": 3,
+          "unit_price": 19.0,
+          "discount": 1.9
+        },
+        {
+          "sku": "SKU-10040",
+          "qty": 2,
+          "unit_price": 21.0,
+          "discount": 2.1
+        }
+      ],
+      "totals": {
+        "subtotal": 89.1,
+        "shipping_fee": 9.99,
+        "tax": 7.13,
+        "grand_total": 106.22
+      }
+    },
+    {
+      "order_id": "WEB-2026-000207",
+      "created_at": 1794807240000,
+      "updated_at": null,
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000436",
+        "email": "ananya.evans70@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "AE",
+        "postcode": "63622"
+      },
+      "items": [
+        {
+          "sku": "SKU-10002",
+          "qty": 3,
+          "unit_price": 290.12
+        },
+        {
+          "sku": "SKU-10060",
+          "qty": 2,
+          "unit_price": 58.76
+        },
+        {
+          "sku": "SKU-10043",
+          "qty": 1,
+          "unit_price": 44.07,
+          "discount": 4.41
+        }
+      ],
+      "totals": {
+        "subtotal": 1027.54,
+        "shipping_fee": 0.0,
+        "tax": 82.2,
+        "grand_total": 1109.74
+      }
+    },
+    {
+      "order_id": "WEB-2026-000208",
+      "created_at": 1794634920000,
+      "updated_at": null,
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000167",
+        "email": "zoé.taylor94@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "U.K.",
+        "postcode": "49029"
+      },
+      "items": [
+        {
+          "sku": "SKU-10044",
+          "qty": 2,
+          "unit_price": 12.62
+        }
+      ],
+      "totals": {
+        "subtotal": 25.24,
+        "shipping_fee": 0.0,
+        "tax": 2.02,
+        "grand_total": 27.26
+      }
+    },
+    {
+      "order_id": "WEB-2026-000209",
+      "created_at": "2026-11-14T02:42:00Z",
+      "updated_at": "2026-11-14T02:42:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000265",
+        "email": "aarav.taylor61@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "U.K.",
+        "postcode": "59182"
+      },
+      "items": [
+        {
+          "sku": "SKU-10024",
+          "qty": 1,
+          "unit_price": 70.19
+        }
+      ],
+      "totals": {
+        "subtotal": 70.19,
+        "shipping_fee": 7.88,
+        "tax": 5.62,
+        "grand_total": 83.69
+      }
+    },
+    {
+      "order_id": "WEB-2026-000210",
+      "created_at": 1794679860000,
+      "updated_at": null,
+      "status": "DELIVERED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000116",
+        "email": "james.taylor14@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "U.S.",
+        "postcode": "94885"
+      },
+      "items": [
+        {
+          "sku": "SKU-10020",
+          "qty": 1,
+          "unit_price": 18.0,
+          "discount": 1.8
+        },
+        {
+          "sku": "SKU-10020",
+          "qty": 3,
+          "unit_price": 18.0
+        }
+      ],
+      "totals": {
+        "subtotal": 70.2,
+        "shipping_fee": 0.0,
+        "tax": 5.62,
+        "grand_total": 75.82
+      },
+      "coupon_code": "WELCOME10"
+    },
+    {
+      "order_id": "WEB-2026-000211",
+      "created_at": "2026-11-16T10:05:00Z",
+      "updated_at": "2026-11-16T10:05:00Z",
+      "status": "RETURNED",
+      "channel": "app",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000404",
+        "email": "jennifer.smith47@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "AE",
+        "postcode": "49211"
+      },
+      "items": [
+        {
+          "sku": "SKU-10059",
+          "qty": 3,
+          "unit_price": 290.12
+        },
+        {
+          "sku": "SKU-10051",
+          "qty": 1,
+          "unit_price": 179.95
+        },
+        {
+          "sku": "SKU-10053",
+          "qty": 2,
+          "unit_price": 80.79
+        }
+      ],
+      "totals": {
+        "subtotal": 1211.89,
+        "shipping_fee": 18.33,
+        "tax": 96.95,
+        "grand_total": 1327.17
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000212",
+      "created_at": "2026-11-14T11:37:00Z",
+      "updated_at": "2026-11-14T11:37:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000119",
+        "email": "john.nguyen98@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Bengaluru",
+        "country": "IN",
+        "postcode": "79452"
+      },
+      "items": [
+        {
+          "sku": "SKU-10017",
+          "qty": 1,
+          "unit_price": 2447.26
+        },
+        {
+          "sku": "SKU-10057",
+          "qty": 1,
+          "unit_price": 5822.78
+        },
+        {
+          "sku": "SKU-10026",
+          "qty": 3,
+          "unit_price": 8354.43
+        }
+      ],
+      "totals": {
+        "subtotal": 33333.33,
+        "shipping_fee": 0.0,
+        "tax": 2666.67,
+        "grand_total": 36000.0
+      }
+    },
+    {
+      "order_id": "WEB-2026-000213",
+      "created_at": "2026-11-14T17:42:00+05:30",
+      "updated_at": "2026-11-14T17:42:00+05:30",
+      "status": "DELIVERED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": null,
+        "email": "guest2582@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "U.S.",
+        "postcode": "52306"
+      },
+      "items": [
+        {
+          "sku": "SKU-10018",
+          "qty": 2,
+          "unit_price": 65.0
+        },
+        {
+          "sku": "SKU-10005",
+          "qty": 3,
+          "unit_price": 45.0,
+          "discount": 4.5
+        },
+        {
+          "sku": "sku-10001",
+          "qty": 3,
+          "unit_price": 59.0,
+          "discount": 5.9
+        }
+      ],
+      "totals": {
+        "subtotal": 410.8,
+        "shipping_fee": 0.0,
+        "tax": 32.86,
+        "grand_total": 443.66
+      }
+    },
+    {
+      "order_id": "WEB-2026-000214",
+      "created_at": "2026-11-15T19:15:00Z",
+      "updated_at": "2026-11-15T19:15:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000060",
+        "email": "vihaan.davies50@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "USA",
+        "postcode": "95495"
+      },
+      "items": [
+        {
+          "sku": "SKU-10040",
+          "qty": 2,
+          "unit_price": 21.0,
+          "discount": 2.1
+        },
+        {
+          "sku": "SKU-10044",
+          "qty": 1,
+          "unit_price": 16.0
+        },
+        {
+          "sku": "SKU-10039",
+          "qty": 3,
+          "unit_price": 49.0
+        }
+      ],
+      "totals": {
+        "subtotal": 200.8,
+        "shipping_fee": 9.99,
+        "tax": 16.06,
+        "grand_total": 226.85
+      }
+    },
+    {
+      "order_id": "WEB-2026-000215",
+      "created_at": "2026-11-16T07:53:00Z",
+      "updated_at": "2026-11-16T07:53:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000067",
+        "email": "zoé.almansouri23@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Bengaluru",
+        "country": "IN",
+        "postcode": "18510"
+      },
+      "items": [
+        {
+          "sku": "SKU-10014",
+          "qty": "3",
+          "unit_price": 1603.38,
+          "discount": 160.34
+        },
+        {
+          "sku": "SKU-10025",
+          "qty": 2,
+          "unit_price": 1265.82,
+          "discount": 126.58
+        }
+      ],
+      "totals": {
+        "subtotal": 6607.6,
+        "shipping_fee": 421.1,
+        "tax": 528.61,
+        "grand_total": 7557.31
+      }
+    },
+    {
+      "order_id": "WEB-2026-000216",
+      "created_at": "2026-11-17T05:01:00+05:30",
+      "updated_at": "2026-11-17T05:01:00+05:30",
+      "status": "DELIVERED",
+      "channel": "Web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": null,
+        "email": "guest2700@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IND",
+        "postcode": "95381"
+      },
+      "items": [
+        {
+          "sku": "SKU-10036",
+          "qty": 2,
+          "unit_price": 7173.0
+        },
+        {
+          "sku": "SKU-10017",
+          "qty": 1,
+          "unit_price": 2447.26
+        }
+      ],
+      "totals": {
+        "subtotal": 16793.26,
+        "shipping_fee": 843.04,
+        "tax": 1343.46,
+        "grand_total": 18979.76
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000217",
+      "created_at": "2026-11-14T12:44:00Z",
+      "updated_at": "2026-11-14T12:44:00Z",
+      "status": "DELIVERED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000011",
+        "email": "ananya.evans48@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "US",
+        "postcode": "27722"
+      },
+      "items": [
+        {
+          "sku": "SKU-10044",
+          "qty": 3,
+          "unit_price": 16.0,
+          "discount": 1.6
+        },
+        {
+          "sku": "SKU-10055",
+          "qty": 1,
+          "unit_price": 35.0,
+          "discount": 3.5
+        }
+      ],
+      "totals": {
+        "subtotal": 74.7,
+        "shipping_fee": 0.0,
+        "tax": 5.98,
+        "grand_total": 80.68
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000218",
+      "created_at": "2026-11-15T15:36:00Z",
+      "updated_at": "2026-11-15T15:36:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000048",
+        "email": "james.gupta83@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "postcode": "97753"
+      },
+      "items": [
+        {
+          "sku": "SKU-10033",
+          "qty": 2,
+          "unit_price": 62.3
+        },
+        {
+          "sku": "SKU-10027",
+          "qty": 1,
+          "unit_price": 27.6
+        },
+        {
+          "sku": "SKU-10013",
+          "qty": 2,
+          "unit_price": 38.64
+        }
+      ],
+      "totals": {
+        "subtotal": 229.48,
+        "shipping_fee": 7.88,
+        "tax": 18.36,
+        "grand_total": 255.72
+      }
+    },
+    {
+      "order_id": "WEB-2026-000219",
+      "created_at": "2026-11-16T04:03:00Z",
+      "updated_at": "2026-11-16T04:03:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": null,
+        "email": "guest2512@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "US",
+        "postcode": "31533"
+      },
+      "items": [
+        {
+          "sku": "SKU-10060",
+          "qty": 3,
+          "unit_price": 16.0
+        }
+      ],
+      "totals": {
+        "subtotal": 48.0,
+        "shipping_fee": 4.99,
+        "tax": 3.84,
+        "grand_total": 56.83
+      }
+    },
+    {
+      "order_id": "WEB-2026-000220",
+      "created_at": "2026-11-15T11:20:00+05:30",
+      "updated_at": "2026-11-15T11:20:00+05:30",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000401",
+        "email": "omar.reddy12@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10049",
+          "qty": 1,
+          "unit_price": 8.0
+        },
+        {
+          "sku": "SKU-10008",
+          "qty": "2",
+          "unit_price": 99.0,
+          "discount": 9.9
+        },
+        {
+          "sku": "SKU-10017",
+          "qty": 2,
+          "unit_price": 29.0,
+          "discount": 2.9
+        }
+      ],
+      "totals": {
+        "subtotal": 238.4,
+        "shipping_fee": 9.99,
+        "tax": 19.07,
+        "grand_total": 267.46
+      }
+    },
+    {
+      "order_id": "WEB-2026-000221",
+      "created_at": "2026-11-16T05:12:00Z",
+      "updated_at": "2026-11-16T05:12:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000402",
+        "email": "chloé.khan37@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "USA",
+        "postcode": "49121"
+      },
+      "items": [
+        {
+          "sku": "SKU-10006",
+          "qty": 1,
+          "unit_price": 229.0
+        },
+        {
+          "sku": "SKU-10038",
+          "qty": 2,
+          "unit_price": 14.0
+        },
+        {
+          "sku": "SKU-10056",
+          "qty": 2,
+          "unit_price": 29.0,
+          "discount": 2.9
+        }
+      ],
+      "totals": {
+        "subtotal": 309.2,
+        "shipping_fee": 9.99,
+        "tax": 24.74,
+        "grand_total": 343.93
+      }
+    },
+    {
+      "order_id": "WEB-2026-000222",
+      "created_at": "2026-11-14T07:18:00+05:30",
+      "updated_at": "2026-11-14T07:18:00+05:30",
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000354",
+        "email": "amelia.müller52@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10051",
+          "qty": 2,
+          "unit_price": 49.0,
+          "discount": 4.9
+        },
+        {
+          "sku": "SKU-10040",
+          "qty": 2,
+          "unit_price": 21.0
+        }
+      ],
+      "totals": {
+        "subtotal": 130.2,
+        "shipping_fee": 0.0,
+        "tax": 10.42,
+        "grand_total": 140.62
+      }
+    },
+    {
+      "order_id": "WEB-2026-000223",
+      "created_at": 1794689040000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000153",
+        "email": "mohammed.reddy60@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "UK",
+        "postcode": "50015"
+      },
+      "items": [
+        {
+          "sku": "SKU-10011",
+          "qty": 3,
+          "unit_price": 18.93,
+          "discount": 1.89
+        },
+        {
+          "sku": "SKU-10022",
+          "qty": 2,
+          "unit_price": 46.53
+        }
+      ],
+      "totals": {
+        "subtotal": 144.18,
+        "shipping_fee": 0.0,
+        "tax": 11.53,
+        "grand_total": 155.71
+      }
+    },
+    {
+      "order_id": "WEB-2026-000224",
+      "created_at": "2026-11-14T00:15:00Z",
+      "updated_at": "2026-11-14T00:15:00Z",
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000098",
+        "email": "vihaan.garcía32@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Mumbai",
+        "country": "India",
+        "postcode": "23420"
+      },
+      "items": [
+        {
+          "sku": "SKU-10013",
+          "qty": 3,
+          "unit_price": 4135.02
+        }
+      ],
+      "totals": {
+        "subtotal": 12405.06,
+        "shipping_fee": 421.1,
+        "tax": 992.4,
+        "grand_total": 13818.56
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000225",
+      "created_at": "2026-11-14T20:11:00+05:30",
+      "updated_at": "2026-11-14T20:11:00+05:30",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000391",
+        "email": "layla.khan49@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "U.K.",
+        "postcode": "40891"
+      },
+      "items": [
+        {
+          "sku": "SKU-10019",
+          "qty": 3,
+          "unit_price": 27.6
+        },
+        {
+          "sku": "SKU-10045",
+          "qty": 2,
+          "unit_price": 14.2
+        }
+      ],
+      "totals": {
+        "subtotal": 111.2,
+        "shipping_fee": 0.0,
+        "tax": 8.9,
+        "grand_total": 120.1
+      }
+    },
+    {
+      "order_id": "WEB-2026-000226",
+      "created_at": "2026-11-15T07:20:00Z",
+      "updated_at": "2026-11-15T07:20:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": null,
+        "email": "guest7153@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "AE",
+        "postcode": "44284"
+      },
+      "items": [
+        {
+          "sku": "SKU-10014",
+          "qty": "3",
+          "unit_price": 69.78,
+          "discount": 6.98
+        },
+        {
+          "sku": "SKU-10054",
+          "qty": 3,
+          "unit_price": 69.78
+        },
+        {
+          "sku": "SKU-10060",
+          "qty": 2,
+          "unit_price": 58.76
+        }
+      ],
+      "totals": {
+        "subtotal": 515.26,
+        "shipping_fee": 0.0,
+        "tax": 41.22,
+        "grand_total": 556.48
+      }
+    },
+    {
+      "order_id": "WEB-2026-000227",
+      "created_at": "2026-11-16T13:32:00Z",
+      "updated_at": "2026-11-16T13:32:00Z",
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000236",
+        "email": "saanvi.patel58@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Mumbai",
+        "country": "India",
+        "postcode": "98503"
+      },
+      "items": [
+        {
+          "sku": "SKU-10008",
+          "qty": 2,
+          "unit_price": 8354.43
+        },
+        {
+          "sku": "SKU-10027",
+          "qty": 1,
+          "unit_price": 2953.59
+        },
+        {
+          "sku": "SKU-10036",
+          "qty": 1,
+          "unit_price": 7173.0,
+          "discount": 717.3
+        }
+      ],
+      "totals": {
+        "subtotal": 26118.15,
+        "shipping_fee": 843.04,
+        "tax": 2089.45,
+        "grand_total": 29050.64
+      }
+    },
+    {
+      "order_id": "WEB-2026-000228",
+      "created_at": "2026-11-16T02:22:00Z",
+      "updated_at": "2026-11-16T02:22:00Z",
+      "status": "DELIVERED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000294",
+        "email": "arjun.gupta5@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "United States",
+        "postcode": "17607"
+      },
+      "items": [
+        {
+          "sku": "SKU-10038",
+          "qty": 3,
+          "unit_price": 14.0
+        }
+      ],
+      "totals": {
+        "subtotal": 42.0,
+        "shipping_fee": 0.0,
+        "tax": 3.36,
+        "grand_total": 45.36
+      }
+    },
+    {
+      "order_id": "WEB-2026-000229",
+      "created_at": "2026-11-16T15:00:00Z",
+      "updated_at": "2026-11-16T15:00:00Z",
+      "status": "DELIVERED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000030",
+        "email": "layla.sharma26@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10033",
+          "qty": 3,
+          "unit_price": 62.3,
+          "discount": 6.23
+        }
+      ],
+      "totals": {
+        "subtotal": 168.21,
+        "shipping_fee": 3.94,
+        "tax": 13.46,
+        "grand_total": 185.61
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000230",
+      "created_at": 1794629520000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000297",
+        "email": "linda.iyer92@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "postcode": "37256"
+      },
+      "items": [
+        {
+          "sku": "SKU-10036",
+          "qty": 2,
+          "unit_price": 67.03
+        },
+        {
+          "sku": "SKU-10009",
+          "qty": 2,
+          "unit_price": 22.87,
+          "discount": 2.29
+        },
+        {
+          "sku": "SKU-10038",
+          "qty": 1,
+          "unit_price": 11.04,
+          "discount": 1.1
+        }
+      ],
+      "totals": {
+        "subtotal": 185.16,
+        "shipping_fee": 7.88,
+        "tax": 14.81,
+        "grand_total": 207.85
+      }
+    },
+    {
+      "order_id": "WEB-2026-000231",
+      "created_at": "2026-11-14T12:41:00Z",
+      "updated_at": "2026-11-14T12:41:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000131",
+        "email": "emma.johnson1@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10014",
+          "qty": 2,
+          "unit_price": 14.98
+        }
+      ],
+      "totals": {
+        "subtotal": 29.96,
+        "shipping_fee": 3.94,
+        "tax": 2.4,
+        "grand_total": 36.3
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000232",
+      "created_at": "2026-11-14T00:18:00Z",
+      "updated_at": "2026-11-14T00:18:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000375",
+        "email": "arjun.johnson57@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "AE",
+        "postcode": "37431"
+      },
+      "items": [
+        {
+          "sku": "SKU-10053",
+          "qty": 2,
+          "unit_price": 80.79
+        }
+      ],
+      "totals": {
+        "subtotal": 161.58,
+        "shipping_fee": 0.0,
+        "tax": 12.93,
+        "grand_total": 174.51
+      }
+    },
+    {
+      "order_id": "WEB-2026-000233",
+      "created_at": "2026-11-16T02:04:00Z",
+      "updated_at": "2026-11-16T02:04:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000190",
+        "email": "linda.wilson61@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "U.S.",
+        "postcode": "61677"
+      },
+      "items": [
+        {
+          "sku": "SKU-10059",
+          "qty": 2,
+          "unit_price": 79.0,
+          "discount": 7.9
+        }
+      ],
+      "totals": {
+        "subtotal": 142.2,
+        "shipping_fee": 0.0,
+        "tax": 11.38,
+        "grand_total": 153.58
+      }
+    },
+    {
+      "order_id": "WEB-2026-000234",
+      "created_at": "2026-11-14T16:31:00Z",
+      "updated_at": "2026-11-14T16:31:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000069",
+        "email": "josé.almansouri65@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "postcode": "48531"
+      },
+      "items": [
+        {
+          "sku": "SKU-10025",
+          "qty": "3",
+          "unit_price": 11.83,
+          "discount": 1.18
+        }
+      ],
+      "totals": {
+        "subtotal": 31.95,
+        "shipping_fee": 0.0,
+        "tax": 2.56,
+        "grand_total": 34.51
+      }
+    },
+    {
+      "order_id": "WEB-2026-000235",
+      "created_at": "2026-11-16T14:59:00+05:30",
+      "updated_at": "2026-11-16T14:59:00+05:30",
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000029",
+        "email": "emma.reddy36@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Mumbai",
+        "country": "IND",
+        "postcode": "49241"
+      },
+      "items": [
+        {
+          "sku": "SKU-10027",
+          "qty": 1,
+          "unit_price": 2953.59
+        },
+        {
+          "sku": "SKU-10023",
+          "qty": 3,
+          "unit_price": 4135.02
+        }
+      ],
+      "totals": {
+        "subtotal": 15358.65,
+        "shipping_fee": 421.1,
+        "tax": 1228.69,
+        "grand_total": 17008.44
+      },
+      "coupon_code": "WELCOME10"
+    },
+    {
+      "order_id": "WEB-2026-000236",
+      "created_at": "2026-11-16T03:54:00Z",
+      "updated_at": "2026-11-16T03:54:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000446",
+        "email": "emma.lee75@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10040",
+          "qty": 3,
+          "unit_price": 1772.15
+        }
+      ],
+      "totals": {
+        "subtotal": 5316.45,
+        "shipping_fee": 843.04,
+        "tax": 425.32,
+        "grand_total": 6584.81
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000237",
+      "created_at": "2026-11-16T19:55:00Z",
+      "updated_at": "2026-11-16T19:55:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000044",
+        "email": "diya.garcía9@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "India",
+        "postcode": "82219"
+      },
+      "items": [
+        {
+          "sku": "SKU-10025",
+          "qty": 3,
+          "unit_price": 1265.82
+        }
+      ],
+      "totals": {
+        "subtotal": 3797.46,
+        "shipping_fee": 0.0,
+        "tax": 303.8,
+        "grand_total": 4101.26
+      }
+    },
+    {
+      "order_id": "WEB-2026-000238",
+      "created_at": "2026-11-15T17:53:00+05:30",
+      "updated_at": "2026-11-15T17:53:00+05:30",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": null,
+        "email": "guest3666@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "India",
+        "postcode": "10531"
+      },
+      "items": [
+        {
+          "sku": "SKU-10050",
+          "qty": 3,
+          "unit_price": 843.88
+        },
+        {
+          "sku": "SKU-10041",
+          "qty": 1,
+          "unit_price": 759.49
+        }
+      ],
+      "totals": {
+        "subtotal": 3291.13,
+        "shipping_fee": 0.0,
+        "tax": 263.29,
+        "grand_total": 3554.42
+      },
+      "coupon_code": "WELCOME10"
+    },
+    {
+      "order_id": "WEB-2026-000239",
+      "created_at": "2026-11-14T10:49:00+05:30",
+      "updated_at": "2026-11-14T10:49:00+05:30",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000323",
+        "email": "arjun.obrien19@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "US",
+        "postcode": "88938"
+      },
+      "items": [
+        {
+          "sku": "SKU-10011",
+          "qty": 2,
+          "unit_price": 24.0
+        },
+        {
+          "sku": "SKU-10004",
+          "qty": 1,
+          "unit_price": 149.0,
+          "discount": 14.9
+        }
+      ],
+      "totals": {
+        "subtotal": 182.1,
+        "shipping_fee": 4.99,
+        "tax": 14.57,
+        "grand_total": 201.66
+      }
+    },
+    {
+      "order_id": "WEB-2026-000240",
+      "created_at": 1794766020000,
+      "updated_at": null,
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000315",
+        "email": "james.gupta14@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Mumbai",
+        "country": "India",
+        "postcode": "15981"
+      },
+      "items": [
+        {
+          "sku": "SKU-10039",
+          "qty": 1,
+          "unit_price": 4135.02,
+          "discount": 413.5
+        },
+        {
+          "sku": "SKU-10026",
+          "qty": 2,
+          "unit_price": 8354.43
+        }
+      ],
+      "totals": {
+        "subtotal": 20430.38,
+        "shipping_fee": 0.0,
+        "tax": 1634.43,
+        "grand_total": 22064.81
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000241",
+      "created_at": "2026-11-16T11:44:00Z",
+      "updated_at": "2026-11-16T11:44:00Z",
+      "status": "CANCELLED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000146",
+        "email": "layla.iyer78@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "UAE",
+        "postcode": "27760"
+      },
+      "items": [
+        {
+          "sku": "SKU-10033",
+          "qty": 2,
+          "unit_price": 290.12
+        },
+        {
+          "sku": "SKU-10038",
+          "qty": 1,
+          "unit_price": 51.41
+        },
+        {
+          "sku": "SKU-10046",
+          "qty": 2,
+          "unit_price": 88.14
+        }
+      ],
+      "totals": {
+        "subtotal": 807.93,
+        "shipping_fee": 36.69,
+        "tax": 64.63,
+        "grand_total": 909.25
+      }
+    },
+    {
+      "order_id": "WEB-2026-000242",
+      "created_at": "2026-11-14T05:43:00Z",
+      "updated_at": "2026-11-14T05:43:00Z",
+      "status": "CANCELLED",
+      "channel": "Web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000015",
+        "email": "noah.lee44@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Bengaluru",
+        "country": "India",
+        "postcode": "17477"
+      },
+      "items": [
+        {
+          "sku": "SKU-10027",
+          "qty": 3,
+          "unit_price": 2953.59
+        },
+        {
+          "sku": "SKU-10026",
+          "qty": 1,
+          "unit_price": 8354.43,
+          "discount": 835.44
+        }
+      ],
+      "totals": {
+        "subtotal": 16379.76,
+        "shipping_fee": 421.1,
+        "tax": 1310.38,
+        "grand_total": 18111.24
+      }
+    },
+    {
+      "order_id": "WEB-2026-000243",
+      "created_at": "2026-11-15T06:21:00Z",
+      "updated_at": "2026-11-15T06:21:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": null,
+        "email": "guest9818@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "AE",
+        "postcode": "59230"
+      },
+      "items": [
+        {
+          "sku": "SKU-10027",
+          "qty": 1,
+          "unit_price": 128.53,
+          "discount": 12.85
+        },
+        {
+          "sku": "SKU-10047",
+          "qty": 1,
+          "unit_price": 80.79,
+          "discount": 8.08
+        }
+      ],
+      "totals": {
+        "subtotal": 188.39,
+        "shipping_fee": 0.0,
+        "tax": 15.07,
+        "grand_total": 203.46
+      }
+    },
+    {
+      "order_id": "WEB-2026-000244",
+      "created_at": "2026-11-14T18:11:00+05:30",
+      "updated_at": "2026-11-14T18:11:00+05:30",
+      "status": "CANCELLED",
+      "channel": "app",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000361",
+        "email": "mary.nguyen78@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "90575"
+      },
+      "items": [
+        {
+          "sku": "SKU-10008",
+          "qty": 3,
+          "unit_price": 78.08
+        },
+        {
+          "sku": "SKU-10003",
+          "qty": 3,
+          "unit_price": 27.6
+        }
+      ],
+      "totals": {
+        "subtotal": 317.04,
+        "shipping_fee": 3.94,
+        "tax": 25.36,
+        "grand_total": 346.34
+      }
+    },
+    {
+      "order_id": "WEB-2026-000245",
+      "created_at": "2026-11-16T06:56:00Z",
+      "updated_at": "2026-11-16T06:56:00Z",
+      "status": "CANCELLED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000348",
+        "email": "chloé.lee32@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "United States",
+        "postcode": "50785"
+      },
+      "items": [
+        {
+          "sku": "SKU-10042",
+          "qty": 3,
+          "unit_price": 4.0
+        }
+      ],
+      "totals": {
+        "subtotal": 12.0,
+        "shipping_fee": 4.99,
+        "tax": 0.96,
+        "grand_total": 17.95
+      }
+    },
+    {
+      "order_id": "WEB-2026-000246",
+      "created_at": 1794697620000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000016",
+        "email": "saanvi.johnson34@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "U.S.",
+        "postcode": "96854"
+      },
+      "items": [
+        {
+          "sku": "SKU-10036",
+          "qty": 3,
+          "unit_price": 85.0
+        },
+        {
+          "sku": "SKU-10030",
+          "qty": 3,
+          "unit_price": 39.0,
+          "discount": 3.9
+        },
+        {
+          "sku": "SKU-10015",
+          "qty": "2",
+          "unit_price": 119.0,
+          "discount": 11.9
+        }
+      ],
+      "totals": {
+        "subtotal": 574.5,
+        "shipping_fee": 0.0,
+        "tax": 45.96,
+        "grand_total": 620.46
+      }
+    },
+    {
+      "order_id": "WEB-2026-000247",
+      "created_at": "2026-11-16T09:18:00Z",
+      "updated_at": "2026-11-16T09:18:00Z",
+      "status": "SHIPPED",
+      "channel": "app",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000048",
+        "email": "james.gupta83@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "UK",
+        "postcode": "24707"
+      },
+      "items": [
+        {
+          "sku": "SKU-10030",
+          "qty": 1,
+          "unit_price": 30.76,
+          "discount": 3.08
+        },
+        {
+          "sku": "sku-10030",
+          "qty": "2",
+          "unit_price": 30.76
+        },
+        {
+          "sku": "SKU-10050",
+          "qty": 2,
+          "unit_price": 7.89,
+          "discount": 0.79
+        }
+      ],
+      "totals": {
+        "subtotal": 103.4,
+        "shipping_fee": 7.88,
+        "tax": 8.27,
+        "grand_total": 131.5
+      }
+    },
+    {
+      "order_id": "WEB-2026-000248",
+      "created_at": "2026-11-15T04:13:00Z",
+      "updated_at": "2026-11-15T04:13:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "AED",
+      "customer": {
+        "customer_id": null,
+        "email": "guest6013@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "postcode": "84840"
+      },
+      "items": [
+        {
+          "sku": "SKU-10025",
+          "qty": 2,
+          "unit_price": 55.09,
+          "discount": 5.51
+        },
+        {
+          "sku": "SKU-10034",
+          "qty": 2,
+          "unit_price": 44.07
+        }
+      ],
+      "totals": {
+        "subtotal": 187.3,
+        "shipping_fee": 36.69,
+        "tax": 14.98,
+        "grand_total": 238.97
+      }
+    },
+    {
+      "order_id": "WEB-2026-000249",
+      "created_at": 1794755820000,
+      "updated_at": null,
+      "status": "RETURNED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000046",
+        "email": "harry.sharma53@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Bengaluru",
+        "country": "IN",
+        "postcode": "22126"
+      },
+      "items": [
+        {
+          "sku": "SKU-10034",
+          "qty": 1,
+          "unit_price": 1012.66
+        }
+      ],
+      "totals": {
+        "subtotal": 1012.66,
+        "shipping_fee": 421.1,
+        "tax": 81.01,
+        "grand_total": 1514.77
+      }
+    },
+    {
+      "order_id": "WEB-2026-000250",
+      "created_at": "2026-11-15T03:57:00+05:30",
+      "updated_at": "2026-11-15T03:57:00+05:30",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000032",
+        "email": "arjun.evans42@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "UAE",
+        "postcode": "87466"
+      },
+      "items": [
+        {
+          "sku": "SKU-10018",
+          "qty": 2,
+          "unit_price": 238.71
+        },
+        {
+          "sku": "SKU-10018",
+          "qty": 3,
+          "unit_price": 238.71
+        },
+        {
+          "sku": "SKU-10043",
+          "qty": 1,
+          "unit_price": 44.07
+        }
+      ],
+      "totals": {
+        "subtotal": 1237.62,
+        "shipping_fee": 36.69,
+        "tax": 99.01,
+        "grand_total": 1373.32
+      }
+    },
+    {
+      "order_id": "WEB-2026-000251",
+      "created_at": "2026-11-14T03:11:00Z",
+      "updated_at": "2026-11-14T03:11:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000199",
+        "email": "mohammed.wilson44@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Mumbai",
+        "country": "IN",
+        "postcode": "24941"
+      },
+      "items": [
+        {
+          "sku": "SKU-10008",
+          "qty": 1,
+          "unit_price": 8354.43,
+          "discount": 835.44
+        },
+        {
+          "sku": "SKU-10020",
+          "qty": 1,
+          "unit_price": 1518.99
+        },
+        {
+          "sku": "SKU-10042",
+          "qty": 1,
+          "unit_price": 337.55
+        }
+      ],
+      "totals": {
+        "subtotal": 9375.53,
+        "shipping_fee": 421.1,
+        "tax": 750.04,
+        "grand_total": 10546.67
+      }
+    },
+    {
+      "order_id": "WEB-2026-000252",
+      "created_at": "2026-11-15T11:24:00+05:30",
+      "updated_at": "2026-11-15T11:24:00+05:30",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000023",
+        "email": "harry.davies32@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "U.K.",
+        "postcode": "43851"
+      },
+      "items": [
+        {
+          "sku": "SKU-10013",
+          "qty": "3",
+          "unit_price": 38.64,
+          "discount": 3.86
+        },
+        {
+          "sku": "SKU-10060",
+          "qty": 3,
+          "unit_price": 12.62
+        }
+      ],
+      "totals": {
+        "subtotal": 142.2,
+        "shipping_fee": 0.0,
+        "tax": 11.38,
+        "grand_total": 153.58
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000253",
+      "created_at": "2026-11-14T09:33:00Z",
+      "updated_at": "2026-11-14T09:33:00Z",
+      "status": "DELIVERED",
+      "channel": "Web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000010",
+        "email": "zoé.reddy56@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "postcode": "28827"
+      },
+      "items": [
+        {
+          "sku": "SKU-10005",
+          "qty": 3,
+          "unit_price": 35.49
+        }
+      ],
+      "totals": {
+        "subtotal": 106.47,
+        "shipping_fee": 0.0,
+        "tax": 8.52,
+        "grand_total": 114.99
+      }
+    },
+    {
+      "order_id": "WEB-2026-000254",
+      "created_at": "2026-11-16T05:16:00Z",
+      "updated_at": "2026-11-16T05:16:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000259",
+        "email": "mohammed.brown86@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10046",
+          "qty": 1,
+          "unit_price": 18.93,
+          "discount": 1.89
+        }
+      ],
+      "totals": {
+        "subtotal": 17.04,
+        "shipping_fee": 0.0,
+        "tax": 1.36,
+        "grand_total": 18.4
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000255",
+      "created_at": "2026-11-16T13:07:00Z",
+      "updated_at": "2026-11-16T13:07:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000255",
+        "email": "mary.iyer26@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "USA",
+        "postcode": "62683"
+      },
+      "items": [
+        {
+          "sku": "SKU-10040",
+          "qty": 3,
+          "unit_price": 21.0
+        },
+        {
+          "sku": "SKU-10037",
+          "qty": 1,
+          "unit_price": 32.0
+        }
+      ],
+      "totals": {
+        "subtotal": 95.0,
+        "shipping_fee": 0.0,
+        "tax": 7.6,
+        "grand_total": 102.6
+      }
+    },
+    {
+      "order_id": "WEB-2026-000256",
+      "created_at": "2026-11-15T03:07:00Z",
+      "updated_at": "2026-11-15T03:07:00Z",
+      "status": "DELIVERED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000012",
+        "email": "amelia.garcía4@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "US",
+        "postcode": "34959"
+      },
+      "items": [
+        {
+          "sku": "SKU-10024",
+          "qty": 3,
+          "unit_price": 89.0,
+          "discount": 8.9
+        },
+        {
+          "sku": "SKU-10056",
+          "qty": 1,
+          "unit_price": 29.0
+        },
+        {
+          "sku": "SKU-10049",
+          "qty": 2,
+          "unit_price": 8.0
+        }
+      ],
+      "totals": {
+        "subtotal": 285.3,
+        "shipping_fee": 4.99,
+        "tax": 22.82,
+        "grand_total": 313.11
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000257",
+      "created_at": "2026-11-15T17:21:00Z",
+      "updated_at": "2026-11-15T17:21:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000284",
+        "email": "josé.müller37@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "UK",
+        "postcode": "78924"
+      },
+      "items": [
+        {
+          "sku": "sku-10028",
+          "qty": 3,
+          "unit_price": 17.35
+        }
+      ],
+      "totals": {
+        "subtotal": 52.05,
+        "shipping_fee": 0.0,
+        "tax": 4.16,
+        "grand_total": 56.21
+      }
+    },
+    {
+      "order_id": "WEB-2026-000258",
+      "created_at": 1794711840000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000199",
+        "email": "mohammed.wilson44@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Mumbai",
+        "country": "IND",
+        "postcode": "49229"
+      },
+      "items": [
+        {
+          "sku": "SKU-10054",
+          "qty": 2,
+          "unit_price": 1603.38
+        }
+      ],
+      "totals": {
+        "subtotal": 3206.76,
+        "shipping_fee": 0.0,
+        "tax": 256.54,
+        "grand_total": 3463.3
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000259",
+      "created_at": "2026-11-15T10:08:00Z",
+      "updated_at": "2026-11-15T10:08:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000203",
+        "email": "david.müller45@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "USA",
+        "postcode": "54697"
+      },
+      "items": [
+        {
+          "sku": "SKU-10004",
+          "qty": 1,
+          "unit_price": 149.0,
+          "discount": 14.9
+        }
+      ],
+      "totals": {
+        "subtotal": 134.1,
+        "shipping_fee": 9.99,
+        "tax": 10.73,
+        "grand_total": 154.82
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000260",
+      "created_at": "2026-11-14T11:35:00Z",
+      "updated_at": "2026-11-14T11:35:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000369",
+        "email": "jennifer.müller63@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "United States",
+        "postcode": "52856"
+      },
+      "items": [
+        {
+          "sku": "SKU-10015",
+          "qty": 1,
+          "unit_price": 119.0
+        },
+        {
+          "sku": "SKU-10059",
+          "qty": 3,
+          "unit_price": 79.0
+        }
+      ],
+      "totals": {
+        "subtotal": 356.0,
+        "shipping_fee": 0.0,
+        "tax": 28.48,
+        "grand_total": 384.48
+      }
+    },
+    {
+      "order_id": "WEB-2026-000261",
+      "created_at": "2026-11-15T21:23:00Z",
+      "updated_at": "2026-11-15T21:23:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000079",
+        "email": "harry.davies82@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "US",
+        "postcode": "47950"
+      },
+      "items": [
+        {
+          "sku": "SKU-10025",
+          "qty": 3,
+          "unit_price": 15.0
+        },
+        {
+          "sku": "sku-10033",
+          "qty": 1,
+          "unit_price": 79.0,
+          "discount": 7.9
+        }
+      ],
+      "totals": {
+        "subtotal": 116.1,
+        "shipping_fee": 9.99,
+        "tax": 9.29,
+        "grand_total": 135.38
+      }
+    },
+    {
+      "order_id": "WEB-2026-000262",
+      "created_at": "2026-11-14T13:22:00Z",
+      "updated_at": "2026-11-14T13:22:00Z",
+      "status": "CANCELLED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000398",
+        "email": "omar.brown89@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "United States",
+        "postcode": "38312"
+      },
+      "items": [
+        {
+          "sku": "SKU-10055",
+          "qty": 3,
+          "unit_price": 35.0
+        },
+        {
+          "sku": "SKU-10026",
+          "qty": 1,
+          "unit_price": 99.0
+        },
+        {
+          "sku": "SKU-10010",
+          "qty": 2,
+          "unit_price": 15.0,
+          "discount": 1.5
+        }
+      ],
+      "totals": {
+        "subtotal": 231.0,
+        "shipping_fee": 0.0,
+        "tax": 18.48,
+        "grand_total": 249.48
+      }
+    },
+    {
+      "order_id": "WEB-2026-000263",
+      "created_at": "2026-11-16T22:17:00Z",
+      "updated_at": "2026-11-16T22:17:00Z",
+      "status": "CANCELLED",
+      "channel": "app",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": null,
+        "email": "guest8632@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "GB",
+        "postcode": "22462"
+      },
+      "items": [
+        {
+          "sku": "SKU-10028",
+          "qty": 1,
+          "unit_price": 17.35
+        }
+      ],
+      "totals": {
+        "subtotal": 17.35,
+        "shipping_fee": 0.0,
+        "tax": 1.39,
+        "grand_total": 18.74
+      }
+    },
+    {
+      "order_id": "WEB-2026-000264",
+      "created_at": "2026-11-15T23:16:00+05:30",
+      "updated_at": "2026-11-15T23:16:00+05:30",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000137",
+        "email": "layla.brown55@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "postcode": "49591"
+      },
+      "items": [
+        {
+          "sku": "SKU-10034",
+          "qty": 3,
+          "unit_price": 44.07
+        }
+      ],
+      "totals": {
+        "subtotal": 132.21,
+        "shipping_fee": 18.33,
+        "tax": 10.58,
+        "grand_total": 161.12
+      }
+    },
+    {
+      "order_id": "WEB-2026-000265",
+      "created_at": "2026-11-14T01:45:00Z",
+      "updated_at": "2026-11-14T01:45:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000420",
+        "email": "michael.johnson90@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "UK",
+        "postcode": "71537"
+      },
+      "items": [
+        {
+          "sku": "SKU-10033",
+          "qty": 1,
+          "unit_price": 62.3,
+          "discount": 6.23
+        },
+        {
+          "sku": "SKU-10032",
+          "qty": 1,
+          "unit_price": 14.2
+        }
+      ],
+      "totals": {
+        "subtotal": 70.27,
+        "shipping_fee": 0.0,
+        "tax": 5.62,
+        "grand_total": 75.89
+      }
+    },
+    {
+      "order_id": "WEB-2026-000266",
+      "created_at": "2026-11-16T00:31:00Z",
+      "updated_at": "2026-11-16T00:31:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000052",
+        "email": "mary.obrien19@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "US",
+        "postcode": "19873"
+      },
+      "items": [
+        {
+          "sku": "sku-10021",
+          "qty": 2,
+          "unit_price": 19.0,
+          "discount": 1.9
+        }
+      ],
+      "totals": {
+        "subtotal": 34.2,
+        "shipping_fee": 4.99,
+        "tax": 2.74,
+        "grand_total": 41.93
+      },
+      "coupon_code": "WELCOME10"
+    },
+    {
+      "order_id": "WEB-2026-000267",
+      "created_at": "2026-11-14T10:02:00Z",
+      "updated_at": "2026-11-14T10:02:00Z",
+      "status": "RETURNED",
+      "channel": "app",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000132",
+        "email": "ananya.davies64@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "UK",
+        "postcode": "57639"
+      },
+      "items": [
+        {
+          "sku": "SKU-10017",
+          "qty": 3,
+          "unit_price": 22.87
+        }
+      ],
+      "totals": {
+        "subtotal": 68.61,
+        "shipping_fee": 7.88,
+        "tax": 5.49,
+        "grand_total": 81.98
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000268",
+      "created_at": "2026-11-16T06:13:00Z",
+      "updated_at": "2026-11-16T06:13:00Z",
+      "status": "CANCELLED",
+      "channel": "app",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000170",
+        "email": "patricia.patel39@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "GB",
+        "postcode": "17717"
+      },
+      "items": [
+        {
+          "sku": "SKU-10040",
+          "qty": 2,
+          "unit_price": 16.56
+        },
+        {
+          "sku": "SKU-10024",
+          "qty": "2",
+          "unit_price": 70.19,
+          "discount": 7.02
+        }
+      ],
+      "totals": {
+        "subtotal": 159.46,
+        "shipping_fee": 7.88,
+        "tax": 12.76,
+        "grand_total": 180.1
+      }
+    },
+    {
+      "order_id": "WEB-2026-000269",
+      "created_at": "2026-11-16T11:36:00Z",
+      "updated_at": "2026-11-16T11:36:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000168",
+        "email": "david.sharma49@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "India",
+        "postcode": "24647"
+      },
+      "items": [
+        {
+          "sku": "SKU-10058",
+          "qty": 1,
+          "unit_price": 3291.14,
+          "discount": 329.11
+        },
+        {
+          "sku": "SKU-10017",
+          "qty": "1",
+          "unit_price": 2447.26
+        }
+      ],
+      "totals": {
+        "subtotal": 5409.29,
+        "shipping_fee": 421.1,
+        "tax": 432.74,
+        "grand_total": 6263.13
+      }
+    },
+    {
+      "order_id": "WEB-2026-000270",
+      "created_at": "2026-11-16T17:26:00Z",
+      "updated_at": "2026-11-16T17:26:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000111",
+        "email": "layla.iyer25@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "postcode": "96968"
+      },
+      "items": [
+        {
+          "sku": "SKU-10052",
+          "qty": 3,
+          "unit_price": 216.67
+        },
+        {
+          "sku": "SKU-10050",
+          "qty": 2,
+          "unit_price": 36.72
+        },
+        {
+          "sku": "SKU-10012",
+          "qty": 2,
+          "unit_price": 143.22
+        }
+      ],
+      "totals": {
+        "subtotal": 1009.89,
+        "shipping_fee": 0.0,
+        "tax": 80.79,
+        "grand_total": 1090.68
+      },
+      "coupon_code": "WELCOME10"
+    },
+    {
+      "order_id": "WEB-2026-000271",
+      "created_at": "2026-11-15T00:42:00Z",
+      "updated_at": "2026-11-15T00:42:00Z",
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000340",
+        "email": "zoé.obrien75@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "United States",
+        "postcode": "96566"
+      },
+      "items": [
+        {
+          "sku": "SKU-10005",
+          "qty": "2",
+          "unit_price": 45.0,
+          "discount": 4.5
+        },
+        {
+          "sku": "SKU-10035",
+          "qty": 1,
+          "unit_price": 25.0
+        },
+        {
+          "sku": "SKU-10002",
+          "qty": 2,
+          "unit_price": 79.0
+        }
+      ],
+      "totals": {
+        "subtotal": 264.0,
+        "shipping_fee": 0.0,
+        "tax": 21.12,
+        "grand_total": 285.12
+      }
+    },
+    {
+      "order_id": "WEB-2026-000272",
+      "created_at": "2026-11-15T20:24:00Z",
+      "updated_at": "2026-11-15T20:24:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000202",
+        "email": "emma.gupta64@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "India",
+        "postcode": "42991"
+      },
+      "items": [
+        {
+          "sku": "SKU-10060",
+          "qty": 2,
+          "unit_price": 1350.21,
+          "discount": 135.02
+        },
+        {
+          "sku": "SKU-10040",
+          "qty": "1",
+          "unit_price": 1772.15,
+          "discount": 177.22
+        },
+        {
+          "sku": "SKU-10017",
+          "qty": 1,
+          "unit_price": 2447.26
+        }
+      ],
+      "totals": {
+        "subtotal": 6472.57,
+        "shipping_fee": 843.04,
+        "tax": 517.81,
+        "grand_total": 7833.42
+      }
+    },
+    {
+      "order_id": "WEB-2026-000273",
+      "created_at": 1794836040000,
+      "updated_at": null,
+      "status": "RETURNED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000275",
+        "email": "linda.wilson4@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "postcode": "32061"
+      },
+      "items": [
+        {
+          "sku": "SKU-10046",
+          "qty": 2,
+          "unit_price": 18.93,
+          "discount": 1.89
+        },
+        {
+          "sku": "SKU-10038",
+          "qty": 1,
+          "unit_price": 11.04,
+          "discount": 1.1
+        }
+      ],
+      "totals": {
+        "subtotal": 44.02,
+        "shipping_fee": 0.0,
+        "tax": 3.52,
+        "grand_total": 47.54
+      }
+    },
+    {
+      "order_id": "WEB-2026-000274",
+      "created_at": "2026-11-16T08:13:00+05:30",
+      "updated_at": "2026-11-16T08:13:00+05:30",
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": null,
+        "email": "guest4164@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "postcode": "77399"
+      },
+      "items": [
+        {
+          "sku": "SKU-10060",
+          "qty": "2",
+          "unit_price": 58.76
+        },
+        {
+          "sku": "sku-10055",
+          "qty": 3,
+          "unit_price": 128.53,
+          "discount": 12.85
+        },
+        {
+          "sku": "SKU-10021",
+          "qty": 3,
+          "unit_price": 69.78
+        }
+      ],
+      "totals": {
+        "subtotal": 673.9,
+        "shipping_fee": 36.69,
+        "tax": 53.91,
+        "grand_total": 764.5
+      }
+    },
+    {
+      "order_id": "WEB-2026-000275",
+      "created_at": "2026-11-14T11:06:00Z",
+      "updated_at": "2026-11-14T11:06:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000449",
+        "email": "michael.gupta1@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "U.K.",
+        "postcode": "66326"
+      },
+      "items": [
+        {
+          "sku": "SKU-10027",
+          "qty": 1,
+          "unit_price": 27.6
+        },
+        {
+          "sku": "SKU-10006",
+          "qty": 2,
+          "unit_price": 180.6
+        },
+        {
+          "sku": "sku-10033",
+          "qty": "3",
+          "unit_price": 62.3
+        }
+      ],
+      "totals": {
+        "subtotal": 575.7,
+        "shipping_fee": 3.94,
+        "tax": 46.06,
+        "grand_total": 625.7
+      }
+    },
+    {
+      "order_id": "WEB-2026-000276",
+      "created_at": "2026-11-16T12:49:00Z",
+      "updated_at": "2026-11-16T12:49:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": null,
+        "email": "guest1786@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "India",
+        "postcode": "96962"
+      },
+      "items": [
+        {
+          "sku": "SKU-10023",
+          "qty": 3,
+          "unit_price": 4135.02,
+          "discount": 413.5
+        },
+        {
+          "sku": "SKU-10024",
+          "qty": 2,
+          "unit_price": 7510.55
+        }
+      ],
+      "totals": {
+        "subtotal": 26185.66,
+        "shipping_fee": 0.0,
+        "tax": 2094.85,
+        "grand_total": 28280.51
+      }
+    },
+    {
+      "order_id": "WEB-2026-000277",
+      "created_at": "2026-11-16T14:56:00+05:30",
+      "updated_at": "2026-11-16T14:56:00+05:30",
+      "status": "RETURNED",
+      "channel": "app",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000015",
+        "email": "noah.lee44@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IN",
+        "postcode": "73778"
+      },
+      "items": [
+        {
+          "sku": "SKU-10028",
+          "qty": 2,
+          "unit_price": 1856.54,
+          "discount": 185.65
+        },
+        {
+          "sku": "SKU-10007",
+          "qty": 1,
+          "unit_price": 5822.78
+        }
+      ],
+      "totals": {
+        "subtotal": 9164.56,
+        "shipping_fee": 421.1,
+        "tax": 733.16,
+        "grand_total": 10318.82
+      }
+    },
+    {
+      "order_id": "WEB-2026-000278",
+      "created_at": "2026-11-15T06:24:00Z",
+      "updated_at": "2026-11-15T06:24:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000414",
+        "email": "fatima.taylor5@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "UAE",
+        "postcode": "49347"
+      },
+      "items": [
+        {
+          "sku": "SKU-10036",
+          "qty": 1,
+          "unit_price": 312.16
+        },
+        {
+          "sku": "SKU-10027",
+          "qty": 1,
+          "unit_price": 128.53
+        },
+        {
+          "sku": "SKU-10047",
+          "qty": 1,
+          "unit_price": 80.79
+        }
+      ],
+      "totals": {
+        "subtotal": 521.48,
+        "shipping_fee": 0.0,
+        "tax": 41.72,
+        "grand_total": 563.2
+      }
+    },
+    {
+      "order_id": "WEB-2026-000279",
+      "created_at": "2026-11-14T19:34:00Z",
+      "updated_at": "2026-11-14T19:34:00Z",
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000285",
+        "email": "mary.hassan28@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "postcode": "30821"
+      },
+      "items": [
+        {
+          "sku": "SKU-10048",
+          "qty": "1",
+          "unit_price": 8.68
+        },
+        {
+          "sku": "SKU-10053",
+          "qty": 2,
+          "unit_price": 17.35
+        }
+      ],
+      "totals": {
+        "subtotal": 43.38,
+        "shipping_fee": 3.94,
+        "tax": 3.47,
+        "grand_total": 50.79
+      }
+    },
+    {
+      "order_id": "WEB-2026-000280",
+      "created_at": "2026-11-15T09:01:00Z",
+      "updated_at": "2026-11-15T09:01:00Z",
+      "status": "RETURNED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000073",
+        "email": "layla.taylor25@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Dubai",
+        "country": "UAE",
+        "postcode": "31743"
+      },
+      "items": [
+        {
+          "sku": "SKU-10043",
+          "qty": 3,
+          "unit_price": 44.07,
+          "discount": 4.41
+        }
+      ],
+      "totals": {
+        "subtotal": 118.98,
+        "shipping_fee": 36.69,
+        "tax": 9.52,
+        "grand_total": 165.19
+      }
+    },
+    {
+      "order_id": "WEB-2026-000281",
+      "created_at": 1794766800000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000020",
+        "email": "ananya.davies2@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "USA",
+        "postcode": "46551"
+      },
+      "items": [
+        {
+          "sku": "SKU-10024",
+          "qty": 2,
+          "unit_price": 89.0
+        },
+        {
+          "sku": "SKU-10033",
+          "qty": 3,
+          "unit_price": 79.0
+        }
+      ],
+      "totals": {
+        "subtotal": 415.0,
+        "shipping_fee": 0.0,
+        "tax": 33.2,
+        "grand_total": 448.2
+      }
+    },
+    {
+      "order_id": "WEB-2026-000282",
+      "created_at": 1794727380000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000165",
+        "email": "vihaan.smith82@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Mumbai",
+        "country": "IN",
+        "postcode": "46215"
+      },
+      "items": [
+        {
+          "sku": "SKU-10016",
+          "qty": 1,
+          "unit_price": 4641.35,
+          "discount": 464.14
+        },
+        {
+          "sku": "SKU-10028",
+          "qty": 1,
+          "unit_price": 1856.54
+        },
+        {
+          "sku": "SKU-10026",
+          "qty": 3,
+          "unit_price": 8354.43
+        }
+      ],
+      "totals": {
+        "subtotal": 31097.04,
+        "shipping_fee": 843.04,
+        "tax": 2487.76,
+        "grand_total": 37870.62
+      }
+    },
+    {
+      "order_id": "WEB-2026-000283",
+      "created_at": "2026-11-16T19:21:00Z",
+      "updated_at": "2026-11-16T19:21:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000276",
+        "email": "emma.iyer22@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "UK",
+        "postcode": "25523"
+      },
+      "items": [
+        {
+          "sku": "SKU-10045",
+          "qty": 2,
+          "unit_price": 14.2
+        },
+        {
+          "sku": "SKU-10041",
+          "qty": 1,
+          "unit_price": 7.1
+        }
+      ],
+      "totals": {
+        "subtotal": 35.5,
+        "shipping_fee": 3.94,
+        "tax": 2.84,
+        "grand_total": 42.28
+      }
+    },
+    {
+      "order_id": "WEB-2026-000284",
+      "created_at": "2026-11-15T13:14:00Z",
+      "updated_at": "2026-11-15T13:14:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000180",
+        "email": "john.gupta20@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IN",
+        "postcode": "29890"
+      },
+      "items": [
+        {
+          "sku": "SKU-10026",
+          "qty": 2,
+          "unit_price": 8354.43
+        },
+        {
+          "sku": "SKU-10002",
+          "qty": 3,
+          "unit_price": 6666.67
+        }
+      ],
+      "totals": {
+        "subtotal": 36708.87,
+        "shipping_fee": 843.04,
+        "tax": 2936.71,
+        "grand_total": 40488.62
+      }
+    },
+    {
+      "order_id": "WEB-2026-000285",
+      "created_at": "2026-11-16T18:55:00Z",
+      "updated_at": "2026-11-16T18:55:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000412",
+        "email": "fatima.nguyen45@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Dubai",
+        "country": "AE",
+        "postcode": "63534"
+      },
+      "items": [
+        {
+          "sku": "sku-10050",
+          "qty": 1,
+          "unit_price": 36.72
+        }
+      ],
+      "totals": {
+        "subtotal": 36.72,
+        "shipping_fee": 0.0,
+        "tax": 2.94,
+        "grand_total": 39.66
+      }
+    },
+    {
+      "order_id": "WEB-2026-000286",
+      "created_at": 1794650760000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": null,
+        "email": "guest5269@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Bengaluru",
+        "country": "IN",
+        "postcode": "44317"
+      },
+      "items": [
+        {
+          "sku": "SKU-10047",
+          "qty": 3,
+          "unit_price": 1856.54
+        }
+      ],
+      "totals": {
+        "subtotal": 5569.62,
+        "shipping_fee": 843.04,
+        "tax": 445.57,
+        "grand_total": 6858.23
+      }
+    },
+    {
+      "order_id": "WEB-2026-000287",
+      "created_at": "2026-11-17T03:16:00+05:30",
+      "updated_at": "2026-11-17T03:16:00+05:30",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000442",
+        "email": "mohammed.gupta41@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "72435"
+      },
+      "items": [
+        {
+          "sku": "SKU-10041",
+          "qty": 3,
+          "unit_price": 7.1
+        },
+        {
+          "sku": "SKU-10031",
+          "qty": 1,
+          "unit_price": 22.87,
+          "discount": 2.29
+        }
+      ],
+      "totals": {
+        "subtotal": 41.88,
+        "shipping_fee": 7.88,
+        "tax": 3.35,
+        "grand_total": 53.11
+      }
+    },
+    {
+      "order_id": "WEB-2026-000288",
+      "created_at": "2026-11-15T12:16:00Z",
+      "updated_at": "2026-11-15T12:16:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000020",
+        "email": "ananya.davies2@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "US",
+        "postcode": "31983"
+      },
+      "items": [
+        {
+          "sku": "SKU-10018",
+          "qty": 3,
+          "unit_price": 65.0,
+          "discount": 6.5
+        }
+      ],
+      "totals": {
+        "subtotal": 175.5,
+        "shipping_fee": 4.99,
+        "tax": 14.04,
+        "grand_total": 194.53
+      }
+    },
+    {
+      "order_id": "WEB-2026-000289",
+      "created_at": "2026-11-16T01:16:00Z",
+      "updated_at": "2026-11-16T01:16:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000276",
+        "email": "emma.iyer22@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "United Kingdom",
+        "postcode": "66346"
+      },
+      "items": [
+        {
+          "sku": "SKU-10010",
+          "qty": 3,
+          "unit_price": 11.83
+        },
+        {
+          "sku": "SKU-10006",
+          "qty": 2,
+          "unit_price": 180.6
+        },
+        {
+          "sku": "SKU-10026",
+          "qty": 1,
+          "unit_price": 78.08
+        }
+      ],
+      "totals": {
+        "subtotal": 474.77,
+        "shipping_fee": 0.0,
+        "tax": 37.98,
+        "grand_total": 512.75
+      }
+    },
+    {
+      "order_id": "WEB-2026-000290",
+      "created_at": "2026-11-16T04:53:00Z",
+      "updated_at": "2026-11-16T04:53:00Z",
+      "status": "DELIVERED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000357",
+        "email": "oliver.gupta10@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "US",
+        "postcode": "32668"
+      },
+      "items": [
+        {
+          "sku": "SKU-10057",
+          "qty": 2,
+          "unit_price": 69.0
+        }
+      ],
+      "totals": {
+        "subtotal": 138.0,
+        "shipping_fee": 0.0,
+        "tax": 11.04,
+        "grand_total": 149.04
+      }
+    },
+    {
+      "order_id": "WEB-2026-000291",
+      "created_at": "2026-11-16T09:00:00Z",
+      "updated_at": "2026-11-16T09:00:00Z",
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000183",
+        "email": "michael.brown84@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IN",
+        "postcode": "13893"
+      },
+      "items": [
+        {
+          "sku": "SKU-10009",
+          "qty": 1,
+          "unit_price": 2447.26
+        },
+        {
+          "sku": "SKU-10035",
+          "qty": 3,
+          "unit_price": 2109.7
+        },
+        {
+          "sku": "SKU-10029",
+          "qty": 3,
+          "unit_price": 3797.47,
+          "discount": 379.75
+        }
+      ],
+      "totals": {
+        "subtotal": 19029.52,
+        "shipping_fee": 843.04,
+        "tax": 1522.36,
+        "grand_total": 21394.92
+      }
+    },
+    {
+      "order_id": "WEB-2026-000292",
+      "created_at": "2026-11-15T10:36:00+05:30",
+      "updated_at": "2026-11-15T10:36:00+05:30",
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000278",
+        "email": "vihaan.johnson81@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "United States",
+        "postcode": "29510"
+      },
+      "items": [
+        {
+          "sku": "SKU-10016",
+          "qty": 2,
+          "unit_price": 55.0
+        }
+      ],
+      "totals": {
+        "subtotal": 110.0,
+        "shipping_fee": 9.99,
+        "tax": 8.8,
+        "grand_total": 128.79
+      }
+    },
+    {
+      "order_id": "WEB-2026-000293",
+      "created_at": "2026-11-15T22:26:00Z",
+      "updated_at": "2026-11-15T22:26:00Z",
+      "status": "DELIVERED",
+      "channel": "app",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000019",
+        "email": "harry.sharma56@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Dubai",
+        "country": "UAE",
+        "postcode": "24702"
+      },
+      "items": [
+        {
+          "sku": "SKU-10045",
+          "qty": 1,
+          "unit_price": 66.1
+        },
+        {
+          "sku": "SKU-10004",
+          "qty": 3,
+          "unit_price": 547.19,
+          "discount": 54.72
+        }
+      ],
+      "totals": {
+        "subtotal": 1543.51,
+        "shipping_fee": 36.69,
+        "tax": 123.48,
+        "grand_total": 1703.68
+      }
+    },
+    {
+      "order_id": "WEB-2026-000294",
+      "created_at": "2026-11-15T08:31:00Z",
+      "updated_at": "2026-11-15T08:31:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": null,
+        "email": "guest2846@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "postcode": "61782"
+      },
+      "items": [
+        {
+          "sku": "SKU-10043",
+          "qty": 1,
+          "unit_price": 9.46
+        }
+      ],
+      "totals": {
+        "subtotal": 9.46,
+        "shipping_fee": 0.0,
+        "tax": 0.76,
+        "grand_total": 10.22
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000295",
+      "created_at": "2026-11-15T07:57:00Z",
+      "updated_at": "2026-11-15T07:57:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000170",
+        "email": "patricia.patel39@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "44223"
+      },
+      "items": [
+        {
+          "sku": "SKU-10007",
+          "qty": 1,
+          "unit_price": 54.42
+        }
+      ],
+      "totals": {
+        "subtotal": 54.42,
+        "shipping_fee": 0.0,
+        "tax": 4.35,
+        "grand_total": 58.77
+      }
+    },
+    {
+      "order_id": "WEB-2026-000296",
+      "created_at": "2026-11-16T10:38:00Z",
+      "updated_at": "2026-11-16T10:38:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000327",
+        "email": "omar.gupta59@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10047",
+          "qty": 2,
+          "unit_price": 22.0
+        }
+      ],
+      "totals": {
+        "subtotal": 44.0,
+        "shipping_fee": 4.99,
+        "tax": 3.52,
+        "grand_total": 52.51
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000297",
+      "created_at": 1794627060000,
+      "updated_at": null,
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000447",
+        "email": "linda.davies18@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "United States",
+        "postcode": "48515"
+      },
+      "items": [
+        {
+          "sku": "SKU-10017",
+          "qty": 3,
+          "unit_price": 29.0,
+          "discount": 2.9
+        },
+        {
+          "sku": "SKU-10003",
+          "qty": 2,
+          "unit_price": 35.0
+        }
+      ],
+      "totals": {
+        "subtotal": 148.3,
+        "shipping_fee": 0.0,
+        "tax": 11.86,
+        "grand_total": 160.16
+      }
+    },
+    {
+      "order_id": "WEB-2026-000298",
+      "created_at": "2026-11-15T22:19:00Z",
+      "updated_at": "2026-11-15T22:19:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000041",
+        "email": "david.johnson77@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "United States",
+        "postcode": "35188"
+      },
+      "items": [
+        {
+          "sku": "SKU-10060",
+          "qty": 3,
+          "unit_price": 16.0
+        }
+      ],
+      "totals": {
+        "subtotal": 48.0,
+        "shipping_fee": 9.99,
+        "tax": 3.84,
+        "grand_total": 61.83
+      }
+    },
+    {
+      "order_id": "WEB-2026-000299",
+      "created_at": "2026-11-15T11:40:00Z",
+      "updated_at": "2026-11-15T11:40:00Z",
+      "status": "DELIVERED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000441",
+        "email": "layla.reddy96@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "United States",
+        "postcode": "39327"
+      },
+      "items": [
+        {
+          "sku": "SKU-10041",
+          "qty": 2,
+          "unit_price": 9.0,
+          "discount": 0.9
+        },
+        {
+          "sku": "SKU-10029",
+          "qty": 3,
+          "unit_price": 45.0,
+          "discount": 4.5
+        }
+      ],
+      "totals": {
+        "subtotal": 137.7,
+        "shipping_fee": 0.0,
+        "tax": 11.02,
+        "grand_total": 148.72
+      }
+    },
+    {
+      "order_id": "WEB-2026-000300",
+      "created_at": "2026-11-15T11:26:00Z",
+      "updated_at": "2026-11-15T11:26:00Z",
+      "status": "SHIPPED",
+      "channel": "Web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000448",
+        "email": "harry.brown6@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IND",
+        "postcode": "28771"
+      },
+      "items": [
+        {
+          "sku": "SKU-10030",
+          "qty": 2,
+          "unit_price": 3291.14
+        },
+        {
+          "sku": "SKU-10050",
+          "qty": 1,
+          "unit_price": 843.88
+        }
+      ],
+      "totals": {
+        "subtotal": 7426.16,
+        "shipping_fee": 0.0,
+        "tax": 594.09,
+        "grand_total": 8020.25
+      }
+    },
+    {
+      "order_id": "WEB-2026-000301",
+      "created_at": "2026-11-15T17:50:00Z",
+      "updated_at": "2026-11-15T17:50:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000231",
+        "email": "jennifer.hassan62@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Dubai",
+        "country": "United Arab Emirates",
+        "postcode": "89813"
+      },
+      "items": [
+        {
+          "sku": "sku-10038",
+          "qty": 2,
+          "unit_price": 51.41
+        }
+      ],
+      "totals": {
+        "subtotal": 102.82,
+        "shipping_fee": 0.0,
+        "tax": 8.23,
+        "grand_total": 111.05
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000302",
+      "created_at": "2026-11-14T09:49:00Z",
+      "updated_at": "2026-11-14T09:49:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000315",
+        "email": "james.gupta14@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10013",
+          "qty": 2,
+          "unit_price": 4135.02
+        },
+        {
+          "sku": "SKU-10017",
+          "qty": 3,
+          "unit_price": 2447.26,
+          "discount": 244.73
+        },
+        {
+          "sku": "sku-10031",
+          "qty": 3,
+          "unit_price": 2447.26
+        }
+      ],
+      "totals": {
+        "subtotal": 22219.41,
+        "shipping_fee": 0.0,
+        "tax": 1777.55,
+        "grand_total": 23996.96
+      }
+    },
+    {
+      "order_id": "WEB-2026-000303",
+      "created_at": "2026-11-16T03:36:00Z",
+      "updated_at": "2026-11-16T03:36:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000377",
+        "email": "søren.davies41@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "United Arab Emirates",
+        "postcode": "20192"
+      },
+      "items": [
+        {
+          "sku": "SKU-10007",
+          "qty": "3",
+          "unit_price": 253.4
+        }
+      ],
+      "totals": {
+        "subtotal": 760.2,
+        "shipping_fee": 18.33,
+        "tax": 60.82,
+        "grand_total": 839.35
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000304",
+      "created_at": "2026-11-15T00:00:00Z",
+      "updated_at": "2026-11-15T00:00:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000271",
+        "email": "mohammed.brown58@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IND",
+        "postcode": "48991"
+      },
+      "items": [
+        {
+          "sku": "SKU-10001",
+          "qty": 1,
+          "unit_price": 4978.9,
+          "discount": 497.89
+        },
+        {
+          "sku": "SKU-10060",
+          "qty": 2,
+          "unit_price": 1350.21
+        }
+      ],
+      "totals": {
+        "subtotal": 7181.43,
+        "shipping_fee": 0.0,
+        "tax": 574.51,
+        "grand_total": 7755.94
+      }
+    },
+    {
+      "order_id": "WEB-2026-000305",
+      "created_at": "2026-11-15T20:08:00Z",
+      "updated_at": "2026-11-15T20:08:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000049",
+        "email": "harry.evans1@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "U.K.",
+        "postcode": "51098"
+      },
+      "items": [
+        {
+          "sku": "SKU-10053",
+          "qty": 1,
+          "unit_price": 17.35,
+          "discount": 1.74
+        },
+        {
+          "sku": "SKU-10051",
+          "qty": 3,
+          "unit_price": 38.64
+        }
+      ],
+      "totals": {
+        "subtotal": 131.53,
+        "shipping_fee": 3.94,
+        "tax": 10.52,
+        "grand_total": 145.99
+      }
+    },
+    {
+      "order_id": "WEB-2026-000306",
+      "created_at": "2026-11-15T14:35:00Z",
+      "updated_at": "2026-11-15T14:35:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000293",
+        "email": "zoé.garcía18@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "88554"
+      },
+      "items": [
+        {
+          "sku": "SKU-10054",
+          "qty": 2,
+          "unit_price": 14.98
+        },
+        {
+          "sku": "SKU-10028",
+          "qty": 3,
+          "unit_price": 17.35
+        },
+        {
+          "sku": "SKU-10022",
+          "qty": 3,
+          "unit_price": 46.53,
+          "discount": 4.65
+        }
+      ],
+      "totals": {
+        "subtotal": 207.65,
+        "shipping_fee": 3.94,
+        "tax": 16.61,
+        "grand_total": 228.2
+      }
+    },
+    {
+      "order_id": "WEB-2026-000307",
+      "created_at": "2026-11-15T21:17:00Z",
+      "updated_at": "2026-11-15T21:17:00Z",
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000086",
+        "email": "mary.reddy67@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "India",
+        "postcode": "53370"
+      },
+      "items": [
+        {
+          "sku": "SKU-10034",
+          "qty": 1,
+          "unit_price": 1012.66,
+          "discount": 101.27
+        },
+        {
+          "sku": "SKU-10008",
+          "qty": 1,
+          "unit_price": 8354.43,
+          "discount": 835.44
+        }
+      ],
+      "totals": {
+        "subtotal": 8430.38,
+        "shipping_fee": 843.04,
+        "tax": 674.43,
+        "grand_total": 9947.85
+      }
+    },
+    {
+      "order_id": "WEB-2026-000308",
+      "created_at": "2026-11-14T06:32:00Z",
+      "updated_at": "2026-11-14T06:32:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000071",
+        "email": "vihaan.brown7@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IN",
+        "postcode": "52132"
+      },
+      "items": [
+        {
+          "sku": "SKU-10034",
+          "qty": 3,
+          "unit_price": 1012.66
+        },
+        {
+          "sku": "sku-10032",
+          "qty": 3,
+          "unit_price": 1518.99,
+          "discount": 151.9
+        },
+        {
+          "sku": "SKU-10045",
+          "qty": 2,
+          "unit_price": 1518.99,
+          "discount": 151.9
+        }
+      ],
+      "totals": {
+        "subtotal": 9873.43,
+        "shipping_fee": 421.1,
+        "tax": 789.87,
+        "grand_total": 11084.4
+      }
+    },
+    {
+      "order_id": "WEB-2026-000309",
+      "created_at": "2026-11-15T15:34:00Z",
+      "updated_at": "2026-11-15T15:34:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": null,
+        "email": "guest1202@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Mumbai",
+        "country": "IND",
+        "postcode": "68507"
+      },
+      "items": [
+        {
+          "sku": "SKU-10047",
+          "qty": 2,
+          "unit_price": 1856.54
+        },
+        {
+          "sku": "SKU-10042",
+          "qty": 2,
+          "unit_price": 337.55,
+          "discount": 33.76
+        },
+        {
+          "sku": "SKU-10050",
+          "qty": 2,
+          "unit_price": 843.88,
+          "discount": 84.39
+        }
+      ],
+      "totals": {
+        "subtotal": 5839.64,
+        "shipping_fee": 421.1,
+        "tax": 467.17,
+        "grand_total": 6727.91
+      }
+    },
+    {
+      "order_id": "WEB-2026-000310",
+      "created_at": "2026-11-15T11:58:00Z",
+      "updated_at": "2026-11-15T11:58:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000028",
+        "email": "saanvi.patel96@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "postcode": "46591"
+      },
+      "items": [
+        {
+          "sku": "SKU-10037",
+          "qty": 2,
+          "unit_price": 25.24
+        },
+        {
+          "sku": "SKU-10025",
+          "qty": "1",
+          "unit_price": 11.83
+        }
+      ],
+      "totals": {
+        "subtotal": 62.31,
+        "shipping_fee": 3.94,
+        "tax": 4.98,
+        "grand_total": 71.23
+      }
+    },
+    {
+      "order_id": "WEB-2026-000311",
+      "created_at": "2026-11-15T22:04:00Z",
+      "updated_at": "2026-11-15T22:04:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000095",
+        "email": "linda.wilson58@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Dubai",
+        "country": "UAE",
+        "postcode": "60881"
+      },
+      "items": [
+        {
+          "sku": "SKU-10020",
+          "qty": 3,
+          "unit_price": 66.1
+        },
+        {
+          "sku": "SKU-10049",
+          "qty": 2,
+          "unit_price": 29.38,
+          "discount": 2.94
+        },
+        {
+          "sku": "SKU-10056",
+          "qty": 1,
+          "unit_price": 106.5
+        }
+      ],
+      "totals": {
+        "subtotal": 357.68,
+        "shipping_fee": 36.69,
+        "tax": 28.61,
+        "grand_total": 422.98
+      }
+    },
+    {
+      "order_id": "WEB-2026-000312",
+      "created_at": "2026-11-15T17:04:00Z",
+      "updated_at": "2026-11-15T17:04:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000030",
+        "email": "layla.sharma26@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": null,
+      "items": [
+        {
+          "sku": "SKU-10016",
+          "qty": 1,
+          "unit_price": 43.38
+        },
+        {
+          "sku": "SKU-10027",
+          "qty": "1",
+          "unit_price": 27.6
+        },
+        {
+          "sku": "sku-10012",
+          "qty": 1,
+          "unit_price": 30.76
+        }
+      ],
+      "totals": {
+        "subtotal": 101.74,
+        "shipping_fee": 7.88,
+        "tax": 8.14,
+        "grand_total": 117.76
+      }
+    },
+    {
+      "order_id": "WEB-2026-000313",
+      "created_at": "2026-11-16T00:57:00Z",
+      "updated_at": "2026-11-16T00:57:00Z",
+      "status": "PLACED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000347",
+        "email": "arjun.patel12@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "U.K.",
+        "postcode": "37558"
+      },
+      "items": [
+        {
+          "sku": "sku-10058",
+          "qty": 3,
+          "unit_price": 30.76,
+          "discount": 3.08
+        }
+      ],
+      "totals": {
+        "subtotal": 83.04,
+        "shipping_fee": 7.88,
+        "tax": 6.64,
+        "grand_total": 97.56
+      }
+    },
+    {
+      "order_id": "WEB-2026-000314",
+      "created_at": "2026-11-15T12:22:00Z",
+      "updated_at": "2026-11-15T12:22:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000233",
+        "email": "mary.lee84@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "U.S.",
+        "postcode": "27841"
+      },
+      "items": [
+        {
+          "sku": "SKU-10018",
+          "qty": 3,
+          "unit_price": 65.0
+        },
+        {
+          "sku": "SKU-10005",
+          "qty": 3,
+          "unit_price": 45.0,
+          "discount": 4.5
+        }
+      ],
+      "totals": {
+        "subtotal": 316.5,
+        "shipping_fee": 0.0,
+        "tax": 25.32,
+        "grand_total": 341.82
+      }
+    },
+    {
+      "order_id": "WEB-2026-000315",
+      "created_at": "2026-11-16T18:27:00Z",
+      "updated_at": "2026-11-16T18:27:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000247",
+        "email": "michael.brown24@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "US",
+        "postcode": "86444"
+      },
+      "items": [
+        {
+          "sku": "SKU-10010",
+          "qty": 2,
+          "unit_price": 15.0,
+          "discount": 1.5
+        }
+      ],
+      "totals": {
+        "subtotal": 27.0,
+        "shipping_fee": 0.0,
+        "tax": 2.16,
+        "grand_total": 29.16
+      }
+    },
+    {
+      "order_id": "WEB-2026-000316",
+      "created_at": "2026-11-14T22:18:00+05:30",
+      "updated_at": "2026-11-14T22:18:00+05:30",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000090",
+        "email": "robert.garcía30@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Dubai",
+        "country": "AE",
+        "postcode": "75612"
+      },
+      "items": [
+        {
+          "sku": "SKU-10012",
+          "qty": 1,
+          "unit_price": 143.22
+        },
+        {
+          "sku": "SKU-10005",
+          "qty": 3,
+          "unit_price": 165.26,
+          "discount": 16.53
+        },
+        {
+          "sku": "SKU-10056",
+          "qty": 2,
+          "unit_price": 106.5,
+          "discount": 10.65
+        }
+      ],
+      "totals": {
+        "subtotal": 781.11,
+        "shipping_fee": 0.0,
+        "tax": 62.49,
+        "grand_total": 843.6
+      }
+    },
+    {
+      "order_id": "WEB-2026-000317",
+      "created_at": "2026-11-15T19:00:00Z",
+      "updated_at": "2026-11-15T19:00:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000386",
+        "email": "aarav.reddy45@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "United Kingdom",
+        "postcode": "26752"
+      },
+      "items": [
+        {
+          "sku": "sku-10017",
+          "qty": 1,
+          "unit_price": 22.87
+        },
+        {
+          "sku": "SKU-10012",
+          "qty": 2,
+          "unit_price": 30.76,
+          "discount": 3.08
+        },
+        {
+          "sku": "SKU-10048",
+          "qty": 1,
+          "unit_price": 8.68
+        }
+      ],
+      "totals": {
+        "subtotal": 86.91,
+        "shipping_fee": 0.0,
+        "tax": 6.95,
+        "grand_total": 93.86
+      },
+      "coupon_code": "BLACKFRIDAY"
+    },
+    {
+      "order_id": "WEB-2026-000318",
+      "created_at": "2026-11-16T07:52:00Z",
+      "updated_at": "2026-11-16T07:52:00Z",
+      "status": "PLACED",
+      "channel": "app",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000242",
+        "email": "michael.patel40@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New Delhi",
+        "country": "IND",
+        "postcode": "65336"
+      },
+      "items": [
+        {
+          "sku": "SKU-10002",
+          "qty": 3,
+          "unit_price": 6666.67,
+          "discount": 666.67
+        },
+        {
+          "sku": "SKU-10048",
+          "qty": "1",
+          "unit_price": 928.27,
+          "discount": 92.83
+        },
+        {
+          "sku": "sku-10025",
+          "qty": 3,
+          "unit_price": 1265.82,
+          "discount": 126.58
+        }
+      ],
+      "totals": {
+        "subtotal": 22253.16,
+        "shipping_fee": 421.1,
+        "tax": 1780.25,
+        "grand_total": 24454.51
+      }
+    },
+    {
+      "order_id": "WEB-2026-000319",
+      "created_at": "2026-11-15T22:16:00Z",
+      "updated_at": "2026-11-15T22:16:00Z",
+      "status": "PLACED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000036",
+        "email": "emma.patel16@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "USA",
+        "postcode": "78600"
+      },
+      "items": [
+        {
+          "sku": "SKU-10026",
+          "qty": "2",
+          "unit_price": 99.0
+        }
+      ],
+      "totals": {
+        "subtotal": 198.0,
+        "shipping_fee": 4.99,
+        "tax": 15.84,
+        "grand_total": 218.83
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000320",
+      "created_at": "2026-11-14T14:22:00Z",
+      "updated_at": "2026-11-14T14:22:00Z",
+      "status": "PLACED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000203",
+        "email": "david.müller45@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "US",
+        "postcode": "29183"
+      },
+      "items": [
+        {
+          "sku": "SKU-10033",
+          "qty": 2,
+          "unit_price": 79.0
+        },
+        {
+          "sku": "SKU-10040",
+          "qty": 2,
+          "unit_price": 21.0
+        },
+        {
+          "sku": "SKU-10001",
+          "qty": 1,
+          "unit_price": 59.0
+        }
+      ],
+      "totals": {
+        "subtotal": 259.0,
+        "shipping_fee": 0.0,
+        "tax": 20.72,
+        "grand_total": 279.72
+      }
+    },
+    {
+      "order_id": "WEB-2026-000052",
+      "created_at": "2026-11-15T13:28:00Z",
+      "updated_at": "2026-11-16T22:42:00Z",
+      "status": "SHIPPED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000003",
+        "email": "saanvi.wilson54@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "United States",
+        "postcode": "33935"
+      },
+      "items": [
+        {
+          "sku": "SKU-10029",
+          "qty": 1,
+          "unit_price": 45.0
+        },
+        {
+          "sku": "SKU-10053",
+          "qty": 2,
+          "unit_price": 22.0
+        },
+        {
+          "sku": "SKU-10038",
+          "qty": 1,
+          "unit_price": 14.0
+        }
+      ],
+      "totals": {
+        "subtotal": 103.0,
+        "shipping_fee": 4.99,
+        "tax": 8.24,
+        "grand_total": 116.23
+      }
+    },
+    {
+      "order_id": "WEB-2026-000036",
+      "created_at": "2026-11-14T13:27:00+05:30",
+      "updated_at": "2026-11-16T22:14:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000104",
+        "email": "mary.garcía92@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "US",
+        "postcode": "67419"
+      },
+      "items": [
+        {
+          "sku": "SKU-10004",
+          "qty": 3,
+          "unit_price": 149.0
+        },
+        {
+          "sku": "SKU-10005",
+          "qty": "2",
+          "unit_price": 45.0
+        },
+        {
+          "sku": "sku-10031",
+          "qty": 1,
+          "unit_price": 29.0,
+          "discount": 2.9
+        }
+      ],
+      "totals": {
+        "subtotal": 563.1,
+        "shipping_fee": 9.99,
+        "tax": 45.05,
+        "grand_total": 618.14
+      }
+    },
+    {
+      "order_id": "WEB-2026-000139",
+      "created_at": "2026-11-16T04:33:00+05:30",
+      "updated_at": "2026-11-16T22:27:00Z",
+      "status": "DELIVERED",
+      "channel": "Web",
+      "currency": "AED",
+      "customer": {
+        "customer_id": "C000366",
+        "email": "noah.obrien66@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Abu Dhabi",
+        "country": "AE",
+        "postcode": "40324"
+      },
+      "items": [
+        {
+          "sku": "SKU-10009",
+          "qty": 2,
+          "unit_price": 106.5,
+          "discount": 10.65
+        },
+        {
+          "sku": "SKU-10055",
+          "qty": 3,
+          "unit_price": 128.53,
+          "discount": 12.85
+        }
+      ],
+      "totals": {
+        "subtotal": 538.74,
+        "shipping_fee": 18.33,
+        "tax": 43.1,
+        "grand_total": 600.17
+      }
+    },
+    {
+      "order_id": "WEB-2026-000102",
+      "created_at": 1794845760000,
+      "updated_at": "2026-11-16T22:17:00Z",
+      "status": "SHIPPED",
+      "channel": "app",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000395",
+        "email": "vihaan.evans17@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Manchester",
+        "country": "GB",
+        "postcode": "19237"
+      },
+      "items": [
+        {
+          "sku": "SKU-10037",
+          "qty": 3,
+          "unit_price": 25.24
+        }
+      ],
+      "totals": {
+        "subtotal": 75.72,
+        "shipping_fee": 0.0,
+        "tax": 6.06,
+        "grand_total": 81.78
+      }
+    },
+    {
+      "order_id": "WEB-2026-000088",
+      "created_at": "2026-11-16T07:31:00Z",
+      "updated_at": "2026-11-16T22:36:00Z",
+      "status": "CANCELLED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000227",
+        "email": "mohammed.lee11@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "USA",
+        "postcode": "85524"
+      },
+      "items": [
+        {
+          "sku": "SKU-10060",
+          "qty": 3,
+          "unit_price": 16.0
+        }
+      ],
+      "totals": {
+        "subtotal": 48.0,
+        "shipping_fee": 0.0,
+        "tax": 3.84,
+        "grand_total": 51.84
+      }
+    },
+    {
+      "order_id": "WEB-2026-000004",
+      "created_at": "2026-11-15T19:24:00Z",
+      "updated_at": "2026-11-16T22:49:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000203",
+        "email": "david.müller45@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "U.S.",
+        "postcode": "59106"
+      },
+      "items": [
+        {
+          "sku": "SKU-10048",
+          "qty": 3,
+          "unit_price": 11.0
+        },
+        {
+          "sku": "SKU-10058",
+          "qty": 3,
+          "unit_price": 39.0
+        },
+        {
+          "sku": "SKU-10009",
+          "qty": 2,
+          "unit_price": 29.0
+        }
+      ],
+      "totals": {
+        "subtotal": 208.0,
+        "shipping_fee": 0.0,
+        "tax": 16.64,
+        "grand_total": 224.64
+      }
+    },
+    {
+      "order_id": "WEB-2026-000014",
+      "created_at": "2026-11-15T21:58:00+05:30",
+      "updated_at": "2026-11-16T22:39:00Z",
+      "status": "CANCELLED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000184",
+        "email": "patricia.nguyen19@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "New York",
+        "country": "U.S.",
+        "postcode": "37549"
+      },
+      "items": [
+        {
+          "sku": "SKU-10059",
+          "qty": 2,
+          "unit_price": 79.0
+        }
+      ],
+      "totals": {
+        "subtotal": 158.0,
+        "shipping_fee": 0.0,
+        "tax": 12.64,
+        "grand_total": 170.64
+      }
+    },
+    {
+      "order_id": "WEB-2026-000111",
+      "created_at": 1794872820000,
+      "updated_at": "2026-11-16T22:35:00Z",
+      "status": "CANCELLED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": null,
+        "email": "guest4366@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "USA",
+        "postcode": "28220"
+      },
+      "items": [
+        {
+          "sku": "SKU-10045",
+          "qty": 1,
+          "unit_price": 18.0
+        }
+      ],
+      "totals": {
+        "subtotal": 18.0,
+        "shipping_fee": 9.99,
+        "tax": 1.44,
+        "grand_total": 29.43
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000115",
+      "created_at": 1794738720000,
+      "updated_at": "2026-11-16T22:19:00Z",
+      "status": "CANCELLED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000297",
+        "email": "linda.iyer92@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Birmingham",
+        "country": "UK",
+        "postcode": "37224"
+      },
+      "items": [
+        {
+          "sku": "SKU-10052",
+          "qty": 2,
+          "unit_price": 46.53
+        },
+        {
+          "sku": "SKU-10025",
+          "qty": 1,
+          "unit_price": 11.83
+        }
+      ],
+      "totals": {
+        "subtotal": 104.89,
+        "shipping_fee": 0.0,
+        "tax": 8.39,
+        "grand_total": 113.28
+      },
+      "coupon_code": "WELCOME10"
+    },
+    {
+      "order_id": "WEB-2026-000077",
+      "created_at": "2026-11-15T03:23:00Z",
+      "updated_at": "2026-11-16T22:31:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000112",
+        "email": "linda.khan81@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "U.S.",
+        "postcode": "51116"
+      },
+      "items": [
+        {
+          "sku": "SKU-10016",
+          "qty": 3,
+          "unit_price": 55.0
+        },
+        {
+          "sku": "SKU-10054",
+          "qty": 1,
+          "unit_price": 19.0
+        }
+      ],
+      "totals": {
+        "subtotal": 184.0,
+        "shipping_fee": 0.0,
+        "tax": 14.72,
+        "grand_total": 198.72
+      }
+    },
+    {
+      "order_id": "WEB-2026-000020",
+      "created_at": "2026-11-16T03:12:00Z",
+      "updated_at": "2026-11-16T22:56:00Z",
+      "status": "DELIVERED",
+      "channel": "Web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000043",
+        "email": "emma.brown27@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "USA",
+        "postcode": "35436"
+      },
+      "items": [
+        {
+          "sku": "SKU-10057",
+          "qty": 1,
+          "unit_price": 69.0
+        },
+        {
+          "sku": "SKU-10053",
+          "qty": 1,
+          "unit_price": 22.0
+        }
+      ],
+      "totals": {
+        "subtotal": 91.0,
+        "shipping_fee": 9.99,
+        "tax": 7.28,
+        "grand_total": 108.27
+      }
+    },
+    {
+      "order_id": "WEB-2026-000042",
+      "created_at": "2026-11-16T09:56:00+05:30",
+      "updated_at": "2026-11-16T22:59:00Z",
+      "status": "CANCELLED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000316",
+        "email": "isla.evans65@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "United States",
+        "postcode": "21027"
+      },
+      "items": [
+        {
+          "sku": "SKU-10042",
+          "qty": 2,
+          "unit_price": 4.0
+        }
+      ],
+      "totals": {
+        "subtotal": 8.0,
+        "shipping_fee": 0.0,
+        "tax": 0.64,
+        "grand_total": 8.64
+      }
+    },
+    {
+      "order_id": "WEB-2026-000075",
+      "created_at": "2026-11-15T16:03:00Z",
+      "updated_at": "2026-11-16T22:33:00Z",
+      "status": "DELIVERED",
+      "channel": "web",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000201",
+        "email": "oliver.hassan33@gmail.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Austin",
+        "country": "U.S.",
+        "postcode": "74309"
+      },
+      "items": [
+        {
+          "sku": "SKU-10024",
+          "qty": 3,
+          "unit_price": 89.0
+        }
+      ],
+      "totals": {
+        "subtotal": 267.0,
+        "shipping_fee": 0.0,
+        "tax": 21.36,
+        "grand_total": 288.36
+      }
+    },
+    {
+      "order_id": "WEB-2026-000057",
+      "created_at": "2026-11-16T17:05:00Z",
+      "updated_at": "2026-11-16T22:13:00Z",
+      "status": "DELIVERED",
+      "channel": "APP",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000148",
+        "email": "fatima.taylor26@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "US",
+        "postcode": "39068"
+      },
+      "items": [
+        {
+          "sku": "SKU-10007",
+          "qty": 3,
+          "unit_price": 69.0
+        },
+        {
+          "sku": "SKU-10056",
+          "qty": "1",
+          "unit_price": 29.0,
+          "discount": 2.9
+        }
+      ],
+      "totals": {
+        "subtotal": 233.1,
+        "shipping_fee": 4.99,
+        "tax": 18.65,
+        "grand_total": 256.74
+      },
+      "coupon_code": ""
+    },
+    {
+      "order_id": "WEB-2026-000069",
+      "created_at": "2026-11-15T21:50:00+05:30",
+      "updated_at": "2026-11-16T22:16:00Z",
+      "status": "SHIPPED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000441",
+        "email": "layla.reddy96@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Chicago",
+        "country": "USA",
+        "postcode": "99111"
+      },
+      "items": [
+        {
+          "sku": "SKU-10011",
+          "qty": 2,
+          "unit_price": 24.0
+        }
+      ],
+      "totals": {
+        "subtotal": 48.0,
+        "shipping_fee": 0.0,
+        "tax": 3.84,
+        "grand_total": 51.84
+      }
+    },
+    {
+      "order_id": "WEB-2026-000148",
+      "created_at": "2026-11-15T02:45:00+05:30",
+      "updated_at": "2026-11-16T22:38:00Z",
+      "status": "SHIPPED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000293",
+        "email": "zoé.garcía18@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "U.K.",
+        "postcode": "63494"
+      },
+      "items": [
+        {
+          "sku": "SKU-10034",
+          "qty": 1,
+          "unit_price": 9.46
+        },
+        {
+          "sku": "SKU-10060",
+          "qty": 3,
+          "unit_price": 12.62,
+          "discount": 1.26
+        },
+        {
+          "sku": "SKU-10039",
+          "qty": 2,
+          "unit_price": 38.64,
+          "discount": 3.86
+        }
+      ],
+      "totals": {
+        "subtotal": 113.1,
+        "shipping_fee": 0.0,
+        "tax": 9.05,
+        "grand_total": 122.15
+      }
+    },
+    {
+      "order_id": "WEB-2026-000019",
+      "created_at": "2026-11-16T01:07:00Z",
+      "updated_at": "2026-11-16T22:14:00Z",
+      "status": "DELIVERED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": "C000367",
+        "email": "isla.lee16@outlook.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "GB",
+        "postcode": "50561"
+      },
+      "items": [
+        {
+          "sku": "SKU-10029",
+          "qty": 2,
+          "unit_price": 35.49
+        },
+        {
+          "sku": "SKU-10043",
+          "qty": "2",
+          "unit_price": 9.46
+        },
+        {
+          "sku": "SKU-10015",
+          "qty": "2",
+          "unit_price": 93.85
+        }
+      ],
+      "totals": {
+        "subtotal": 277.6,
+        "shipping_fee": 7.88,
+        "tax": 22.21,
+        "grand_total": 307.69
+      },
+      "coupon_code": null
+    },
+    {
+      "order_id": "WEB-2026-000108",
+      "created_at": "2026-11-14T13:14:00Z",
+      "updated_at": "2026-11-16T22:16:00Z",
+      "status": "SHIPPED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000096",
+        "email": "robert.sharma52@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "U.S.",
+        "postcode": "11243"
+      },
+      "items": [
+        {
+          "sku": "SKU-10011",
+          "qty": 2,
+          "unit_price": 24.0,
+          "discount": 2.4
+        }
+      ],
+      "totals": {
+        "subtotal": 43.2,
+        "shipping_fee": 0.0,
+        "tax": 3.46,
+        "grand_total": 46.66
+      }
+    },
+    {
+      "order_id": "WEB-2026-000028",
+      "created_at": "2026-11-15T18:06:00Z",
+      "updated_at": "2026-11-16T22:11:00Z",
+      "status": "CANCELLED",
+      "channel": "web",
+      "currency": "INR",
+      "customer": {
+        "customer_id": "C000174",
+        "email": "chloé.hassan60@yahoo.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Bengaluru",
+        "country": "India",
+        "postcode": "78548"
+      },
+      "items": [
+        {
+          "sku": "SKU-10045",
+          "qty": 3,
+          "unit_price": 1518.99,
+          "discount": 151.9
+        },
+        {
+          "sku": "SKU-10004",
+          "qty": 1,
+          "unit_price": 12573.84
+        },
+        {
+          "sku": "SKU-10037",
+          "qty": 1,
+          "unit_price": 2700.42
+        }
+      ],
+      "totals": {
+        "subtotal": 19375.53,
+        "shipping_fee": 0.0,
+        "tax": 1550.04,
+        "grand_total": 20925.57
+      }
+    },
+    {
+      "order_id": "WEB-2026-000040",
+      "created_at": "2026-11-14T11:13:00+05:30",
+      "updated_at": "2026-11-16T22:20:00Z",
+      "status": "CANCELLED",
+      "channel": "app",
+      "currency": "USD",
+      "customer": {
+        "customer_id": "C000384",
+        "email": "diya.khan43@icloud.com",
+        "is_guest": false
+      },
+      "shipping_address": {
+        "city": "Seattle",
+        "country": "US",
+        "postcode": "29899"
+      },
+      "items": [
+        {
+          "sku": "SKU-10010",
+          "qty": 1,
+          "unit_price": 15.0,
+          "discount": 1.5
+        },
+        {
+          "sku": "SKU-10003",
+          "qty": 3,
+          "unit_price": 35.0
+        },
+        {
+          "sku": "SKU-10013",
+          "qty": 3,
+          "unit_price": 49.0,
+          "discount": 4.9
+        }
+      ],
+      "totals": {
+        "subtotal": 250.8,
+        "shipping_fee": 0.0,
+        "tax": 20.06,
+        "grand_total": 270.86
+      }
+    },
+    {
+      "order_id": "WEB-2026-000184",
+      "created_at": "2026-11-14T09:17:00Z",
+      "updated_at": "2026-11-14T09:17:00Z",
+      "status": "DELIVERED",
+      "channel": "web",
+      "currency": "GBP",
+      "customer": {
+        "customer_id": null,
+        "email": "guest9328@mail.com",
+        "is_guest": true
+      },
+      "shipping_address": {
+        "city": "London",
+        "country": "United Kingdom",
+        "postcode": "31373"
+      },
+      "items": [
+        {
+          "sku": "SKU-10053",
+          "qty": 1,
+          "unit_price": 17.35,
+          "discount": 1.74
+        },
+        {
+          "sku": "SKU-10043",
+          "qty": 2,
+          "unit_price": 9.46
+        },
+        {
+          "sku": "SKU-10001",
+          "qty": 2,
+          "unit_price": 46.53,
+          "discount": 4.65
+        }
+      ],
+      "totals": {
+        "subtotal": 118.29,
+        "shipping_fee": 7.88,
+        "tax": 9.46,
+        "grand_total": 149.19
+      },
+      "coupon_code": "BLACKFRIDAY"
+    }
+  ]
+}
