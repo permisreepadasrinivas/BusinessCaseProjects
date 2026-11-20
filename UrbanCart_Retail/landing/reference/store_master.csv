@@ -1,0 +1,15 @@
+store_code,store_name,city,country,currency,region,store_manager,open_date,status,close_date
+ST-001,Manhattan 5th Ave,New York,U.S.,USD,North America,Linda Park,2019-10-26,Active,
+ST-002,Chicago Loop,Chicago,US,USD,North America,Raj Mehta,2021-08-26,Active,
+ST-003,Austin Domain,Austin,US,USD,North America,Tom Clarke,"Aug 09, 2022",Active,
+ST-004,Seattle Pike Place,Seattle,US,USD,North America,Aisha Khan,"Jan 19, 2020",Active,
+ST-005,London Oxford Street,London,United Kingdom,GBP,Europe,Sophie Turner,"Feb 07, 2023",Active,
+ST-006,Manchester Arndale,Manchester,U.K.,GBP,Europe,Mark Evans,2018-03-18,Active,
+ST-007,Birmingham Bullring,Birmingham,United Kingdom,GBP,,Priya Nair,2020-05-06,Active,
+ST-008,Mumbai Bandra,Mumbai,India,INR,Asia Pacific,Arjun Rao,"Jul 05, 2018",Active,
+ST-009,Bengaluru Indiranagar,Bengaluru,IN,INR,Asia Pacific,Kavya Iyer,"May 02, 2018",Active,
+ST-010,Delhi Connaught Place,New Delhi,IND,INR,Asia Pacific,Rohit Sharma,2023-04-25,Active,
+ST-011,Dubai Mall,Dubai,AE,AED,Middle East,Omar Hassan,"Jul 08, 2021",Active,
+ST-012,Abu Dhabi Yas Mall,Abu Dhabi,UAE,AED,Middle East,Fatima Ali,"Mar 27, 2021",Closed,2026-09-30
+ST-004,Seattle Pike Place,Seattle,USA,USD,North America,Daniel Brooks,2020-06-15,Active,
+st-002 ,Chicago Loop,Chicago,United States,usd,North America,Raj Mehta,2019-02-11,active,
