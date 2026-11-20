@@ -1,1 +1,474 @@
-
+CustomerID,First Name,Last Name,Email,Phone,Country,City,Signup Date,Date Of Birth,Loyalty Tier,Marketing Opt In
+C000336,Fatima,Wilson,FATIMA.WILSON54@YAHOO.COM,+971 50 123 0155,UAE,Abu Dhabi,06-09-2024,1900-01-01,Gold,1
+C000070,Robert,Brown,robert.brown94@yahoo.com,+1 (212) 555-0202,US,New York,19-06-2023,1960-12-31,Silver,Y
+C000061,Linda,Evans,linda.evans6@gmail.com,+1 (212) 555-0481,United States,New York,01/16/2024,2031-04-12,gold ,No
+C000298,Noah,Johnson,noah.johnson38@gmail.com,020 7946 0801,U.K.,Birmingham,03-03-2025,1999-10-13,Bronze,0
+C000227,Mohammed,Lee,MOHAMMED.LEE11@ICLOUD.COM,212.555.0892,United States,Austin,2023-05-21,,Bronze,1
+C000102,Saanvi,Müller,saanvi.müller83@icloud.com,212.555.0639,USA,Chicago,20260307,1900-01-01,,false
+C000178,JOSÉ,SHARMA,josé.sharma46@outlook.com,+91 98765 00197,IND,Mumbai,2023-05-09,,gold ,
+C000390,José,Patel,josé.patel21@yahoo.com,+44 20 7946 0910,U.K.,London,01/21/2026,1964-05-23,,Yes
+C000293,Zoé,García,zoé.garcía18@yahoo.com,020 7946 0322,GB,Manchester,20260715,1958-05-02,GOLD,TRUE
+C000304,Mohammed,Nguyen,mohammed.nguyen60@outlook.com,+91 98765 00374,India,Bengaluru,23-04-2022,,Gold,No
+C000121,Zoé,Khan,zoé.khan14@outlook.com,050-123-0779,UAE,Abu Dhabi,2025-04-09,1975-02-04,Gold,Y
+C000324,Robert,Reddy,robert.reddy53@yahoo.com,2125550019,United States,Chicago,30-03-2022,1991-10-27,gold ,N
+C000356,Noah,Nguyen,noah.nguyen44@gmail.com,+91 98765 00101,IN,Bengaluru,2025-12-04,1984-02-05,Platinum,false
+C000405,James,Al Mansouri,james.almansouri32@icloud.com,+971 50 123 0771,AE,Dubai,09/21/2024,1996-08-11,Platinum,No
+C000113,Vihaan,Smith,vihaan.smith4@icloud.com,020 7946 0813,UK,Manchester,11/21/2021,2031-04-12,gold ,TRUE
+C000031,Linda,Patel,LINDA.PATEL20@YAHOO.COM,2125550369,USA,New York,20210709,1971-05-10,gold ,N
+C000083,Diya,Khan,diya.khan95@yahoo,212.555.0915,US,Austin,07/27/2022,2001-04-17,Platinum,No
+C000188,Omar,Evans,omar.evans68@gmail.com,212.555.0800,United States,Seattle,02/26/2025,2000-07-26,Bronze,0
+C000382,Jennifer,Gupta,jennifer.gupta49@outlook.com,2125550283,United States,Austin,20241017,1966-12-25,Platinum,false
+C000081,Vihaan,Johnson,vihaan.johnson82@yahoo.com,212.555.0140,United States,Chicago,29-01-2021,1967-12-19,silver,
+C000132,Ananya,Davies,ananya.davies64@yahoo.com,+44 20 7946 0171,United Kingdom,London,20230818,,silver,0
+C000123,MOHAMMED,REDDY,MOHAMMED.REDDY62@GMAIL.COM,9876500491,India,New Delhi,12/13/2022,1993-03-15,Gold,Yes
+C000153,Mohammed,Reddy,mohammed.reddy60@gmail.com,+44 20 7946 0838,United Kingdom,Manchester,07/23/2025,1976-07-02,GOLD,Yes
+C000377,Søren,Davies,søren.davies41@gmail.com,+971 50 123 0505,United Arab Emirates,Dubai,11/25/2022,1976-09-09,Silver,Yes
+C000088,Layla,Johnson,layla.johnson29@outlook.com,9876500401,India,Mumbai,10-08-2026,1986-05-17,Silver,No
+C000214,Diya,Sharma,diya.sharma39@outlook.com,9876500086,IND,Mumbai,07-06-2024,1994-08-27,,No
+C000217,Mia,Khan,mia.khan58@gmail.com,020 7946 0328,United Kingdom,Manchester,20230523,1987-02-11,silver,No
+C000263,Vihaan,García,vihaan.garcía8@gmail.com,+1 (212) 555-0246,United States,Chicago,11/08/2021,1987-03-31,gold ,1
+C000364,Harry,Taylor,harry.taylor76@gmail.com,050-123-0020,United Arab Emirates,Abu Dhabi,23-03-2024,1900-01-01,GOLD,false
+C000157,Aarav,Hassan,AARAV.HASSAN41@YAHOO.COM,9876500308,IND,New Delhi,15-03-2025,1990-05-21,Silver,Y
+C000310,Saanvi,Lee,saanvi.lee68@gmail.com,+91 98765 00768,IN,Mumbai,27-06-2021,1989-06-28,,1
+C000181,Mary,Brown,mary.brown73@yahoo.com,050-123-0688,AE,Dubai,23-03-2023,1965-11-05,gold ,1
+C000166,Isla,Al Mansouri,isla.almansouri27@outlook.com,+44 20 7946 0922,UK,Manchester,08/20/2026,2000-10-28,gold ,N
+C000427,Chloé,Taylor,chloé.taylor71@icloud.com,,US,Seattle,03/23/2025,2000-12-23,Bronze,Yes
+C000411,Linda,Nguyen,linda.nguyen64@yahoo,+44 20 7946 0260,U.K.,London,20210216,1988-02-20,Gold,No
+C000391, Layla ,Khan,layla.khan49@outlook.com,+44 20 7946 0768,UK,Manchester,20211207,1969-05-18,Bronze,Yes
+C000016,Saanvi,Johnson,saanvi.johnson34@yahoo.com,2125550585,United States,Austin,10-02-2022,1980-04-05,Silver,No
+C000169,John,Hassan,john.hassan54@yahoo.com,212.555.0947,U.S.,Chicago,2026-09-24,1998-10-25,Bronze,false
+C000365,Michael,Davies,michael.davies64@yahoo.com,+91 98765 00810,India,Mumbai,10-05-2022,1956-03-14,GOLD,No
+C000090,Robert,García,robert.garcía30@gmail.com,+971 50 123 0512,United Arab Emirates,Abu Dhabi,27-05-2022,1958-01-01,silver,Yes
+C000127, Saanvi ,Smith,saanvi.smith53@gmail.com,050-123-0822,United Arab Emirates,Dubai,2024-08-11,1987-12-28,,TRUE
+C000444,Patricia,Nguyen,patricia.nguyen81@icloud.com,+1 (212) 555-0174,United States,New York,08-06-2023,1966-01-26,Bronze,N
+C000244,Aarav,O'Brien,aarav.obrien12@yahoo.com,9876500222,IND,Bengaluru,06/09/2024,1970-06-05,gold ,N
+C000135,Mohammed,Brown,mohammed.brown63@gmail.com,2125550391,US,Seattle,14-01-2023,1976-03-22,Silver,No
+C000144,Aarav,Patel,aarav.patel65@outlook.com,+1 (212) 555-0619,US,New York,07/29/2021,1992-12-06,gold ,TRUE
+C000134,Michael,Patel,michael.patel64@outlook.com,2125550119,USA,Seattle,01/02/2026,1999-10-27,GOLD,N
+C000079,Harry,Davies,harry.davies82@yahoo.com,212.555.0682,U.S.,New York,2025-09-01,2001-02-19,,false
+C000455,Mary,Lee,mary.lee84@yahoo.com,2125550850,US,New York,2026-10-01,1987-08-29,gold ,N
+C000362,MOHAMMED,JOHNSON,mohammed.johnson89@icloud.com,,UK,London,01/17/2021,1983-10-10,Platinum,
+C000230,Jennifer,Wilson,jennifer.wilson15@yahoo.com,+44 20 7946 0680,UK,London,03-01-2026,1991-06-01,Platinum,TRUE
+C000289,Robert,Lee,robert.lee86@outlook.com,+1 (212) 555-0294,USA,Chicago,20240822,1996-12-30,silver,
+C000357,Oliver,Gupta,oliver.gupta10@yahoo.com,+1 (212) 555-0548,USA,New York,2022-02-20,1995-08-20,Platinum,false
+C000043,Emma,Brown,emma.brown27@gmail.com,212.555.0405,USA,Austin,20240404,1965-01-11,,
+C000048,James,Gupta,james.gupta83@outlook,020 7946 0717,UK,Birmingham,20251122,1997-06-28,Silver,TRUE
+C000028,Saanvi,Patel,saanvi.patel96@gmail.com,,U.K.,Manchester,2021-04-19,,Platinum,TRUE
+C000092,Amelia,O'Brien,amelia.obrien29@icloud.com,+1 (212) 555-0124,US,New York,08/24/2024,1955-04-23,,Yes
+C000400,Mia,Gupta,mia.gupta65@yahoo.com,2125550452,US,Chicago,14-12-2023,1969-05-16,silver,Y
+C000317,Isla,Khan,isla.khan59@gmail.com,+1 (212) 555-0568,USA,Seattle,20260315,2031-04-12,GOLD,Yes
+C000219,Isla,O'Brien,isla.obrien14@gmail.com,020 7946 0111,U.K.,Manchester,20230201,1964-02-28,silver,0
+C000046,Harry,Sharma,harry.sharma53@yahoo.com,9876500375,IN,New Delhi,21-06-2021,1991-08-06,Silver,No
+C000172,Robert,Brown,robert.brown82@outlook.com,212.555.0530,U.S.,New York,20230322,,Bronze,0
+C000067,ZOÉ,AL MANSOURI,zoé.almansouri23@icloud.com,091-98765-00761,India,New Delhi,2023-07-29,1970-05-14,GOLD,Yes
+C000203,David,Müller,david.müller45@outlook.com,212.555.0556,USA,New York,2021-03-03,1976-03-10,,0
+C000332, Emma ,Evans,emma.evans38@gmail.com,+44 20 7946 0640,U.K.,London,06-11-2022,1971-02-11,Platinum,false
+C000221,James,Taylor,james.taylor12@outlook.com,+44 20 7946 0155,UK,Manchester,2025-03-15,1964-12-28,Platinum,1
+C000125,David,Smith,david.smith45@yahoo.com,212.555.0271,United States,New York,20260403,,GOLD,false
+C000454,Emma,Johnson,emma.johnson1@yahoo.com,020 7946 0621,United Kingdom,London,2026-10-01,2004-02-25,gold ,No
+C000404,Jennifer,Smith,jennifer.smith47@yahoo.com,050-123-0983,United Arab Emirates,Abu Dhabi,15-08-2025,1967-11-28,GOLD,No
+C000044,DIYA,GARCÍA,diya.garcía9@icloud.com,091-98765-00243,India,New Delhi,27-02-2025,1989-03-11,silver,No
+C000339, Mohammed ,Wilson,mohammed.wilson53@gmail.com,212.555.0141,United States,Chicago,16-10-2021,1962-08-07,Platinum,
+C000280,Amelia,Hassan,amelia.hassan34@outlook.com,+91 98765 00858,India,New Delhi,20210104,2004-02-23,Gold,Yes
+C000240,José,O'Brien,josé.obrien88@icloud.com,+971 50 123 0270,AE,Abu Dhabi,05-02-2024,1965-11-15,silver,1
+C000158,Patricia,Hassan,patricia.hassan32@icloud.com,091-98765-00175,IND,Bengaluru,09-09-2022,1977-09-19,Gold,No
+C000139,Noah,Patel,noah.patel59@outlook.com,+44 20 7946 0692,United Kingdom,Birmingham,20221022,,Silver,No
+C000037,Chloé,Nguyen,chloé.nguyen25@gmail.com,2125550429,USA,Austin,04/18/2025,1989-09-22,Platinum,TRUE
+C000415,MIA,GUPTA,mia.gupta96@gmail.com,+1 (212) 555-0920,USA,Chicago,20250130,1956-04-07,Bronze,1
+C000069,José,Al Mansouri,josé.almansouri65@gmail.com,020 7946 0606,United Kingdom,London,2023-01-19,1983-06-26,Bronze,1
+C000224,Amelia,Wilson,amelia.wilson94@gmail.com,050-123-0125,UAE,Dubai,08/31/2023,1994-07-09,Platinum,TRUE
+C000251,Amelia,Sharma,amelia.sharma67@gmail.com,+44 20 7946 0118,U.K.,London,2022-01-11,1900-01-01,GOLD,
+C000325,Layla,Brown,layla.brown95@yahoo.com,2125550633,U.S.,Chicago,02-09-2022,1977-11-05,gold ,TRUE
+C000425,Omar,Al Mansouri,omar.almansouri18@yahoo.com,+1 (212) 555-0196,United States,Chicago,16-03-2025,1979-02-18,GOLD,N
+C000344,Diya,Lee,diya.lee50@yahoo.com,+44 20 7946 0090,U.K.,Birmingham,28-06-2025,1975-11-17,silver,
+C000315,James,Gupta,james.gupta14@outlook.com,+91 98765 00118,IN,Mumbai,27-02-2026,1963-10-15,Bronze,TRUE
+C000270,Robert,Al Mansouri,robert.almansouri13@icloud.com,+971 50 123 0504,AE,Dubai,10/01/2024,1984-11-25,,Yes
+C000393,FATIMA,WILSON,fatima.wilson91@yahoo.com,+971 50 123 0345,United Arab Emirates,Abu Dhabi,08/03/2021,1978-08-19,Silver,false
+C000374, Harry ,Smith,harry.smith7@outlook.com,+44 20 7946 0852,United Kingdom,Birmingham,06/07/2026,1965-12-17,Platinum,
+C000385,Patricia,Hassan,patricia.hassan45@outlook.com,9876500182,India,Mumbai,2026-06-18,1973-11-15,GOLD,Yes
+C000443,Diya,Gupta,DIYA.GUPTA33@OUTLOOK.COM,+44 20 7946 0517,U.K.,London,04/14/2026,1986-01-18,Silver,
+C000442,Mohammed,Gupta,mohammed.gupta41@outlook.com,,UK,London,06/13/2022,2031-04-12,Bronze,No
+C000149,Robert,Reddy,robert.reddy94@yahoo.com,212.555.0122,U.S.,New York,07-09-2026,1997-09-29,silver,
+C000115, Arjun ,Brown,arjun.brown73@outlook.com,+44 20 7946 0625,United Kingdom,Birmingham,11/30/2025,1980-07-04,silver,1
+C000025,Isla,Taylor,isla.taylor10@yahoo.com,2125550489,U.S.,New York,10-05-2021,1995-08-28,Bronze,1
+C000017,Emma,Smith,emma.smith93@gmail.com,050-123-0342,UAE,Dubai,05-09-2021,1983-12-30,gold ,TRUE
+C000099,Mary,Johnson,MARY.JOHNSON69@GMAIL.COM,+971 50 123 0878,AE,Dubai,23-09-2022,1997-04-12,silver,
+C000321,Mary,Reddy,mary.reddy15@yahoo.com,+44 20 7946 0856,United Kingdom,Manchester,20230915,1977-11-11,GOLD,No
+C000091,James,Nguyen,james.nguyen46@yahoo.com,2125550619,US,Austin,17-09-2026,1974-02-12,Gold,
+C000105,Isla,Al Mansouri,isla.almansouri11@icloud.com,+44 20 7946 0821,U.K.,Manchester,2021-01-04,2031-04-12,Gold,1
+C000327,Omar,Gupta,omar.gupta59@yahoo.com,+1 (212) 555-0938,U.S.,Chicago,09/28/2024,1989-03-18,gold ,1
+C000453,Oliver,Evans,OLIVER.EVANS34@GMAIL.COM,+1 (212) 555-0318,United States,Seattle,2026-10-09,,Bronze,
+C000430,Ananya,Evans,ananya.evans6@gmail.com,2125550989,USA,Seattle,20220407,2001-11-04,GOLD,TRUE
+C000349,Isla,Smith,isla.smith4@gmail.com,+1 (212) 555-0180,United States,Chicago,2021-04-05,1996-06-03,Platinum,
+C000360,Chloé,Müller,chloé.müller27@outlook.com,020 7946 0854,U.K.,London,2024-09-18,1961-05-17,Platinum,Yes
+C000346,Diya,Reddy,diya.reddy19@icloud,+1 (212) 555-0227,U.S.,Austin,2024-10-29,1991-01-02,gold ,false
+C000366,Noah,O'Brien,noah.obrien66@outlook.com,+971 50 123 0704,AE,Dubai,08/27/2025,2002-07-02,Bronze,No
+C000343,Emma,Gupta,emma.gupta38@yahoo.com,,India,Mumbai,2022-09-02,1985-04-17,GOLD,false
+C000085,John,Al Mansouri,john.almansouri30@outlook.com,212.555.0115,U.S.,Seattle,20230416,1999-12-21,GOLD,N
+C000039,Fatima,Smith,fatima.smith14@yahoo.com,091-98765-00662,IND,Mumbai,12-04-2026,2004-01-01,Platinum,
+C000052,Mary,O'Brien,mary.obrien19@icloud.com,212.555.0523,USA,Chicago,2025-09-18,1982-07-12,Gold,TRUE
+C000354,Amelia,Müller,amelia.müller52@outlook.com,+1 (212) 555-0418,U.S.,Chicago,13-08-2025,1993-06-28,Gold,Y
+C000296,Aarav,Müller,aarav.müller10@gmail.com,020 7946 0456,United Kingdom,Birmingham,13-08-2023,1971-09-06,Platinum,
+C000435,Arjun,Sharma,arjun.sharma14@icloud.com,050-123-0361,UAE,Dubai,2025-03-06,1963-04-14,,1
+C000401,Omar,Reddy,omar.reddy12@outlook.com,212.555.0655,U.S.,Seattle,20260626,1992-10-08,Gold,No
+C000223, Linda ,Al Mansouri,linda.almansouri94@outlook.com,+91 98765 00725,IND,New Delhi,09/13/2023,1997-04-13,GOLD,
+C000246,VIHAAN,IYER,vihaan.iyer62@outlook.com,050-123-0228,United Arab Emirates,Abu Dhabi,03/02/2025,,Gold,TRUE
+C000012,Amelia,García,,212.555.0154,U.S.,Seattle,20260619,1957-11-02,gold ,false
+C000250, AARAV ,BROWN,aarav.brown20@yahoo.com,020 7946 0022,UK,Manchester,20250414,1984-02-27,silver,
+C000207,Mary,Khan,mary.khan39@gmail.com,020 7946 0519,United Kingdom,Manchester,12-06-2021,,silver,false
+C000212,Jennifer,Johnson,jennifer.johnson54@gmail.com,+1 (212) 555-0226,U.S.,Chicago,04-01-2024,1970-04-20,Gold,1
+C000433,Amelia,Reddy,amelia.reddy22@gmail.com,020 7946 0298,UK,Birmingham,11/06/2025,1957-11-08,Silver,Yes
+C000146,Layla,Iyer,layla.iyer78@yahoo.com,050-123-0513,United Arab Emirates,Abu Dhabi,01-10-2025,2031-04-12,Silver,1
+C000129,Diya,Nguyen,diya.nguyen28@gmail.com,+91 98765 00067,IN,Bengaluru,09-05-2026,2000-11-25,Silver,N
+C000131,Emma,Johnson,EMMA.JOHNSON1@YAHOO.COM,020 7946 0621,United Kingdom,London,20260204,2004-02-25,gold ,No
+C000050,ISLA,TAYLOR,isla.taylor12@icloud.com,+971 50 123 0577,United Arab Emirates,Dubai,2026-02-04,1972-12-05,Platinum,Y
+C000155,Isla,Nguyen,isla.nguyen76@icloud.com,050-123-0821,UAE,Dubai,2023-10-13,1977-11-21,Bronze,TRUE
+C000100,Linda,Davies,linda.davies8@gmail.com,020 7946 0214,U.K.,London,20-12-2024,1956-11-26,Platinum,1
+C000013,Mohammed,Khan,mohammed.khan6@icloud.com,212.555.0234,United States,Seattle,07-11-2021,1984-07-16,Bronze,false
+C000096,Robert,Sharma,robert.sharma52@yahoo.com,2125550194,USA,Chicago,20220404,1969-11-08,silver,TRUE
+C000311,Mary,Gupta,mary.gupta44@icloud.com,+44 20 7946 0209,UK,Birmingham,20241111,1971-11-20,gold ,Y
+C000370,José,Johnson,josé.johnson84@gmail.com,+91 98765 00275,IN,Bengaluru,11/15/2024,1985-06-16,Silver,
+C000239,Søren,Nguyen,søren.nguyen19@yahoo.com,9876500508,IN,New Delhi,07/22/2025,2002-01-25,Silver,No
+C000255, Mary ,Iyer,mary.iyer26@outlook.com,212.555.0308,US,New York,2026-09-05,1988-09-07,Silver,
+C000117,Robert,Smith,robert.smith4@gmail.com,+1 (212) 555-0921,U.S.,Austin,14-02-2022,1982-03-14,Bronze,TRUE
+C000056,Chloé,Johnson,CHLOÉ.JOHNSON62@YAHOO.COM,2125550737,US,Chicago,04/22/2024,2002-12-12,GOLD,Y
+C000461,Patricia,Al Mansouri,PATRICIA.ALMANSOURI64@YAHOO.COM,,USA,Seattle,2026-10-01,2003-01-19,,TRUE
+C000281,Patricia,Khan,patricia.khan38@icloud.com,,UAE,Dubai,20220810,1965-10-31,gold ,false
+C000457,Vihaan,García,vihaan.garcía27@yahoo.com,212.555.0340,U.S.,Austin,2026-10-04,1970-01-07,Silver,1
+C000101,Diya,Evans,,+1 (212) 555-0013,US,Chicago,04/01/2022,2002-08-30,GOLD,No
+C000086,MARY,REDDY,mary.reddy67@yahoo.com,9876500371,India,New Delhi,09-06-2025,1965-11-12,Bronze,N
+C000348,Chloé,Lee,chloé.lee32@yahoo.com,+1 (212) 555-0277,United States,Austin,2025-02-21,1900-01-01,Bronze,N
+C000106,Patricia,Sharma,patricia.sharma30@gmail.com,212.555.0018,U.S.,New York,2026-05-16,1963-08-31,GOLD,Y
+C000440,Emma,Gupta,emma.gupta24@outlook.com,091-98765-00761,IND,Mumbai,2022-09-10,2002-07-11,silver,Yes
+C000463,Michael,García,MICHAEL.GARCÍA55@ICLOUD.COM,050-123-0647,United Arab Emirates,Abu Dhabi,2026-10-06,,GOLD,No
+C000451,Arjun,Evans,ARJUN.EVANS42@GMAIL.COM,+971 50 123 0514,UAE,Abu Dhabi,2026-10-07,1970-02-20,Gold,TRUE
+C000396,John,O'Brien,john.obrien35@icloud.com,,IN,Mumbai,14-03-2022,1977-07-04,,Y
+C000291,Mia,Johnson,mia.johnson67@yahoo.com,+91 98765 00652,India,Bengaluru,26-06-2023,1988-08-30,Platinum,Yes
+C000118, Mohammed ,Johnson,mohammed.johnson90@gmail.com,+1 (212) 555-0397,US,Chicago,2023-07-16,1973-09-27,silver,N
+C000284,José,Müller,josé.müller37@outlook,+44 20 7946 0095,UK,London,20241130,1971-02-19,Silver,false
+C000381,Noah,García,noah.garcía3@outlook.com,+1 (212) 555-0669,U.S.,Seattle,04/10/2026,2002-10-08,Bronze,false
+C000034,Patricia,Al Mansouri,patricia.almansouri5@gmail.com,9876500993,IN,New Delhi,20220711,1955-03-26,Bronze,false
+C000439,Layla,Smith,layla.smith4@icloud.com,+1 (212) 555-0676,USA,Seattle,2021-02-11,2004-03-18,gold ,Yes
+C000392,Ananya,Müller,ananya.müller27@outlook.com,2125550714,United States,New York,05/21/2021,2003-05-23,GOLD,0
+C000460,Zoé,Reddy,ZOÉ.REDDY20@ICLOUD.COM,020 7946 0131,UK,Birmingham,2026-10-02,1965-04-19,Bronze,0
+C000426,Robert,Wilson,robert.wilson76@outlook.com,9876500588,IN,Mumbai,19-04-2024,1958-09-27,,
+C000445, Michael ,García,michael.garcía55@icloud.com,050-123-0647,United Arab Emirates,Abu Dhabi,20230904,,GOLD,No
+C000116,James,Taylor,james.taylor14@outlook.com,2125550071,US,Seattle,20211006,,silver,false
+C000093,Arjun,Wilson,arjun.wilson27@yahoo.com,020 7946 0229,UK,London,19-04-2024,1984-09-12,gold ,Y
+C000367,Isla,Lee,isla.lee16@outlook.com,020 7946 0880,UK,London,05-09-2021,1994-01-06,Bronze,0
+C000288,Layla,García,layla.garcía98@yahoo.com,+971 50 123 0492,AE,Abu Dhabi,16-04-2025,1988-09-28,Platinum,
+C000355,Isla,García,isla.garcía52@icloud.com,050-123-0327,United Arab Emirates,Dubai,2021-03-17,1993-09-17,GOLD,TRUE
+C000174,Chloé,Hassan,chloé.hassan60@yahoo.com,091-98765-00305,IN,Bengaluru,2022-10-03,1968-01-14,gold ,
+C000248,Arjun,Gupta,arjun.gupta52@outlook.com,+44 20 7946 0847,UK,London,20250723,1973-12-09,Bronze,0
+C000419,Fatima,Evans,fatima.evans55@outlook.com,020 7946 0111,United Kingdom,Birmingham,20260312,1992-07-11,Bronze,TRUE
+C000210,Mohammed,Lee,mohammed.lee88@gmail.com,9876500514,IND,Bengaluru,24-06-2026,,gold ,1
+C000464,Ananya,Al Mansouri,ananya.almansouri31@icloud.com,+91 98765 00290,IN,Mumbai,2026-10-06,1966-05-28,,TRUE
+C000120,Chloé,O'Brien,chloé.obrien86@gmail.com,212.555.0873,USA,New York,17-06-2022,1987-08-16,Silver,1
+C000410,Diya,Reddy,diya.reddy81@outlook.com,+91 98765 00262,IND,New Delhi,2026-09-16,1988-02-28,silver,N
+C000449,Michael,Gupta,michael.gupta1@gmail.com,+44 20 7946 0476,United Kingdom,Manchester,04-06-2025,1970-01-10,,1
+C000418,Omar,Müller,omar.müller95@icloud.com,050-123-0144,AE,Dubai,04/24/2023,2002-07-06,gold ,N
+C000241,John,O'Brien,JOHN.OBRIEN71@ICLOUD.COM,2125550565,U.S.,Chicago,05/29/2022,1981-03-15,GOLD,1
+C000030,Layla,Sharma,,020 7946 0977,U.K.,London,14-07-2022,,Gold,TRUE
+C000200,Amelia,Iyer,,+971 50 123 0273,United Arab Emirates,Abu Dhabi,20240818,1991-05-05,gold ,0
+C000266,Harry,Taylor,harry.taylor48@icloud.com,+44 20 7946 0024,GB,Birmingham,20220212,1992-08-20,Gold,Yes
+C000097,Mary,O'Brien,mary.obrien45@icloud.com,050-123-0765,United Arab Emirates,Abu Dhabi,2021-04-04,1960-08-17,Bronze,1
+C000051,Amelia,Al Mansouri,amelia.almansouri99@outlook.com,+44 20 7946 0328,U.K.,Manchester,10/01/2024,2001-06-29,silver,
+C000462,Fatima,Al Mansouri,FATIMA.ALMANSOURI81@OUTLOOK.COM,+1 (212) 555-0495,US,New York,2026-10-04,1957-04-04,Bronze,TRUE
+C000422,Mary,Davies,mary.davies46@yahoo.com,+1 (212) 555-0357,United States,New York,01/23/2023,1985-07-31,GOLD,false
+C000229, Oliver ,Gupta,OLIVER.GUPTA74@ICLOUD.COM,+91 98765 00374,IN,Bengaluru,09/03/2024,1984-06-19,Gold,1
+C000269,Linda,Brown,linda.brown80@yahoo.com,050-123-0460,United Arab Emirates,Dubai,20260307,1983-07-03,Silver,1
+C000197,Mia,Iyer,mia.iyer13@icloud.com,,IND,Mumbai,19-02-2023,1981-04-17,Silver,
+C000416,Layla,Khan,layla.khan96@outlook,020 7946 0733,U.K.,Birmingham,20230209,1971-01-02,Gold,Y
+C000087,Søren,Nguyen,søren.nguyen85@yahoo.com,+1 (212) 555-0907,US,Seattle,2021-10-14,1992-01-11,Platinum,No
+C000195,Fatima,Brown,fatima.brown24@yahoo.com,+44 20 7946 0376,UK,Manchester,2025-04-05,1967-08-04,Silver,false
+C000140,Zoé,Lee,zoé.lee83@gmail.com,020 7946 0664,UK,Birmingham,11/14/2023,1960-10-22,Platinum,
+C000233,Mary,Lee,mary.lee84@yahoo.com,2125550850,US,New York,08/02/2024,1987-08-29,gold ,N
+C000026,Michael,Taylor,MICHAEL.TAYLOR54@ICLOUD.COM,091-98765-00233,India,New Delhi,2025-06-30,1957-07-04,Bronze,1
+C000078,Linda,Iyer,linda.iyer48@gmail.com,9876500539,IND,Mumbai,2021-02-07,,Platinum,1
+C000290,Michael,Smith,michael.smith9@icloud.com,+44 20 7946 0423,U.K.,Manchester,13-04-2021,2003-02-09,Silver,Yes
+C000098,Vihaan,García,vihaan.garcía32@outlook.com,,IND,Bengaluru,17-07-2024,,GOLD,No
+C000196,James,Smith,james.smith79@gmail.com,+91 98765 00979,IND,Mumbai,20240310,1988-02-23,gold ,No
+C000036,Emma,Patel,emma.patel16@gmail.com,+1 (212) 555-0333,United States,Seattle,20210619,2003-10-20,Platinum,No
+C000171,Vihaan,Patel,VIHAAN.PATEL51@ICLOUD.COM,+971 50 123 0456,United Arab Emirates,Abu Dhabi,12/15/2021,1972-04-29,,N
+C000209,Mia,O'Brien,mia.obrien79@icloud.com,091-98765-00686,IND,Mumbai,09/14/2024,1958-05-26,silver,Yes
+C000018,Linda,Taylor,linda.taylor61@icloud.com,+1 (212) 555-0910,United States,Austin,20260131,1994-12-20,Bronze,Yes
+C000040,Amelia,Iyer,amelia.iyer19@gmail.com,212.555.0627,United States,Seattle,2024-08-12,2003-09-21,Silver,1
+C000279,Chloé,Reddy,chloé.reddy16@yahoo.com,,GB,Manchester,11/18/2024,1995-03-22,Gold,Yes
+C000330,Harry,Smith,harry.smith46@outlook.com,050-123-0465,United Arab Emirates,Abu Dhabi,08-07-2021,1977-12-21,GOLD,TRUE
+C000010,Zoé,Reddy,zoé.reddy56@gmail.com,+44 20 7946 0947,UK,Manchester,21-09-2023,1986-10-16,GOLD,Yes
+C000045,Harry,O'Brien,harry.obrien20@gmail.com,212.555.0247,United States,Austin,20231224,1963-03-12,Gold,false
+C000436,Ananya,Evans,ananya.evans70@yahoo.com,050-123-0191,AE,Abu Dhabi,28-04-2023,2001-02-17,Platinum,TRUE
+C000421,Jennifer,Patel,jennifer.patel70@yahoo.com,2125550725,US,Austin,14-09-2024,1975-01-26,GOLD,false
+C000226,Mary,Johnson,mary.johnson2@gmail.com,050-123-0233,United Arab Emirates,Abu Dhabi,20221219,2004-03-12,GOLD,N
+C000274,Robert,Al Mansouri,ROBERT.ALMANSOURI20@YAHOO.COM,020 7946 0419,U.K.,Birmingham,20210926,2003-08-27,Gold,Yes
+C000142,Layla,Iyer,layla.iyer22@icloud,+91 98765 00957,India,Bengaluru,12/29/2021,1968-05-01,Gold,Yes
+C000011,Ananya,Evans,ananya.evans48@icloud.com,212.555.0189,United States,Seattle,08-09-2022,1989-03-01,Gold,Y
+C000019,Harry,Sharma,harry.sharma56@icloud.com,+971 50 123 0597,AE,Abu Dhabi,11/24/2021,1982-04-18,Bronze,1
+C000301,Linda,Lee,,050-123-0612,AE,Dubai,01/23/2023,1982-11-17,Platinum,N
+C000237,Oliver,Sharma,oliver.sharma35@icloud.com,091-98765-00555,IND,Mumbai,20260316,1995-11-27,gold ,N
+C000376,Linda,Patel,linda.patel6@outlook.com,9876500587,India,Mumbai,20220421,1975-12-18,gold ,
+C000041,David,Johnson,david.johnson77@outlook.com,+1 (212) 555-0949,USA,New York,01/31/2025,2002-04-28,Bronze,0
+C000247,Michael,Brown,michael.brown24@yahoo.com,+1 (212) 555-0359,U.S.,Seattle,31-05-2021,1989-10-30,,N
+C000208,Michael,García,MICHAEL.GARCÍA78@GMAIL.COM,+1 (212) 555-0245,United States,Austin,2026-03-29,1974-12-25,Silver,N
+C000202,Emma,Gupta,emma.gupta64@icloud.com,091-98765-00145,IND,Mumbai,10/28/2022,,,0
+C000192,Jennifer,O'Brien,jennifer.obrien77@gmail.com,+1 (212) 555-0485,US,Seattle,06-07-2023,1978-04-15,,TRUE
+C000232,Aarav,Sharma,aarav.sharma97@yahoo.com,091-98765-00521,IND,Mumbai,10-07-2024,,Silver,false
+C000340,Zoé,O'Brien,zoé.obrien75@gmail.com,2125550092,US,Chicago,07/01/2022,1964-03-26,Gold,TRUE
+C000020, ANANYA ,DAVIES,ananya.davies2@yahoo.com,212.555.0919,United States,New York,2023-11-21,1969-10-06,Silver,TRUE
+C000165,Vihaan,Smith,vihaan.smith82@yahoo.com,091-98765-00979,IN,Mumbai,03/29/2025,1900-01-01,Silver,
+C000347,Arjun,Patel,arjun.patel12@yahoo.com,020 7946 0475,UK,Birmingham,20240317,,,1
+C000446,Emma,Lee,emma.lee75@gmail.com,+91 98765 00488,India,New Delhi,2026-05-08,2000-10-09,Bronze,Y
+C000414,Fatima,Taylor,fatima.taylor5@yahoo.com,,United Arab Emirates,Dubai,08-10-2025,1988-03-02,,Yes
+C000429,Harry,Evans,HARRY.EVANS15@YAHOO.COM,091-98765-00861,India,Mumbai,2025-03-31,1972-12-18,gold ,TRUE
+C000450,Søren,Müller,søren.müller55@outlook.com,9876500714,India,Mumbai,2024-02-04,2000-10-04,Bronze,false
+C000341,Arjun,Wilson,arjun.wilson54@yahoo.com,+44 20 7946 0740,U.K.,Manchester,08/29/2023,1988-11-10,silver,Y
+C000222,Robert,García,robert.garcía3@yahoo.com,050-123-0800,AE,Dubai,15-02-2021,1965-03-26,silver,Yes
+C000073,Layla,Taylor,layla.taylor25@outlook.com,050-123-0768,United Arab Emirates,Dubai,08/09/2023,1972-10-06,Platinum,0
+C000021,Zoé,Wilson,zoé.wilson78@outlook.com,,India,New Delhi,2022-06-13,,Gold,No
+C000014,John,Johnson,john.johnson33@outlook.com,212.555.0959,US,Chicago,19-12-2024,1955-07-16,gold ,N
+C000059,Michael,García,michael.garcía24@outlook.com,091-98765-00298,India,Mumbai,2023-07-04,1972-10-11,Silver,
+C000406,Mohammed,Taylor,MOHAMMED.TAYLOR24@YAHOO.COM,020 7946 0083,United Kingdom,Manchester,08/08/2024,2003-05-18,silver,0
+C000006,Mia,Müller,mia.müller96@icloud.com,2125550075,US,Seattle,12/06/2025,2000-02-20,Platinum,
+C000168,David,Sharma,david.sharma49@icloud.com,9876500237,IND,New Delhi,12/20/2022,1970-09-09,Silver,N
+C000409,Zoé,Reddy,zoé.reddy20@icloud.com,020 7946 0131,UK,Birmingham,23-06-2024,1965-04-19,Bronze,0
+C000001,Ananya,Hassan,,050-123-0073,UAE,Abu Dhabi,20210815,,Gold,false
+C000038,Søren,Davies,,+44 20 7946 0679,GB,Manchester,2022-04-21,1958-01-07,Gold,false
+C000104,Mary,García,mary.garcía92@gmail.com,2125550145,USA,New York,20220430,,Silver,Yes
+C000179,Oliver,García,,091-98765-00944,IND,New Delhi,01/02/2022,1993-12-09,gold ,1
+C000254,Zoé,Nguyen,zoé.nguyen78@outlook.com,+971 50 123 0125,United Arab Emirates,Dubai,20210310,2031-04-12,GOLD,Yes
+C000287,Michael,Lee,michael.lee11@gmail.com,+91 98765 00460,IN,New Delhi,20210914,1993-05-12,Platinum,TRUE
+C000124,José,Evans,josé.evans38@yahoo.com,2125550227,United States,Chicago,06/06/2026,,GOLD,Yes
+C000076,Noah,Lee,noah.lee36@icloud.com,212.555.0343,US,Seattle,27-12-2021,1971-10-21,gold ,0
+C000259,Mohammed,Brown,mohammed.brown86@icloud.com,020 7946 0520,United Kingdom,Manchester,26-08-2026,1982-08-21,,N
+C000412,Fatima,Nguyen,fatima.nguyen45@gmail.com,,United Arab Emirates,Abu Dhabi,2022-08-23,1999-08-15,silver,
+C000184,Patricia,Nguyen,patricia.nguyen19@outlook.com,2125550661,U.S.,Chicago,2021-01-19,1987-06-22,Bronze,0
+C000194,Chloé,Al Mansouri,chloé.almansouri48@icloud.com,9876500414,IND,Bengaluru,11/19/2022,1997-03-11,gold ,No
+C000054,Emma,Davies,emma.davies67@outlook.com,+1 (212) 555-0418,U.S.,Seattle,2024-08-18,1979-07-17,,TRUE
+C000215,OLIVER,SMITH,OLIVER.SMITH56@GMAIL.COM,+44 20 7946 0382,UK,Birmingham,12/23/2024,1979-11-21,silver,N
+C000272, LINDA ,GARCÍA,linda.garcía15@yahoo.com,212.555.0312,U.S.,Chicago,20260707,,Silver,No
+C000007,FATIMA,KHAN,fatima.khan48@yahoo.com,+1 (212) 555-0991,US,Chicago,20230224,,,N
+C000375,Arjun,Johnson,arjun.johnson57@gmail.com,+971 50 123 0673,UAE,Abu Dhabi,03/08/2021,,Silver,N
+C000084,Amelia,Nguyen,amelia.nguyen19@yahoo.com,2125550191,U.S.,Austin,21-01-2024,1997-08-04,Platinum,false
+C000002,Robert,Khan,robert.khan7@outlook.com,050-123-0581,AE,Abu Dhabi,20230312,1962-08-18,GOLD,Y
+C000176,Linda,Sharma,linda.sharma91@icloud.com,091-98765-00916,India,New Delhi,23-03-2021,2004-04-02,silver,Y
+C000285,Mary,Hassan,mary.hassan28@yahoo.com,+44 20 7946 0894,U.K.,Birmingham,20250804,2031-04-12,Bronze,1
+C000379,Noah,García,noah.garcía9@outlook.com,091-98765-00859,India,Mumbai,2022-10-27,1981-11-02,GOLD,false
+C000428,JENNIFER,WILSON,jennifer.wilson77@icloud.com,091-98765-00484,India,Mumbai,20240803,1958-05-08,silver,1
+C000417,John,Gupta,john.gupta55@icloud.com,+1 (212) 555-0474,U.S.,Seattle,2024-09-04,1970-09-21,silver,
+C000413,Zoé,Reddy,zoé.reddy6@gmail.com,+1 (212) 555-0106,United States,New York,09-02-2022,,Silver,Yes
+C000328,Ananya,Reddy,ananya.reddy4@outlook.com,091-98765-00344,India,Bengaluru,2023-12-23,1993-11-09,Silver,N
+C000244,Aarav,O'Brien,aarav.obrien12@yahoo.com,9876500222,IND,Bengaluru,06/09/2024,1970-06-05,gold ,N
+C000282,Mary,Reddy,mary.reddy19@gmail.com,050-123-0853,UAE,Dubai,06/14/2022,1983-02-16,gold ,No
+C000175,Mohammed,Wilson,mohammed.wilson61@yahoo.com,091-98765-00412,India,Bengaluru,18-01-2023,,silver,No
+C000008,Patricia,Smith,patricia.smith11@yahoo.com,+44 20 7946 0724,United Kingdom,Manchester,20220710,1962-11-13,Bronze,Y
+C000103,Jennifer,Müller,jennifer.müller40@gmail.com,091-98765-00599,IND,New Delhi,2025-12-06,1959-10-28,,false
+C000029,Emma,Reddy,emma.reddy36@yahoo.com,+91 98765 00257,India,Mumbai,27-03-2021,1993-12-01,gold ,false
+C000329,Michael,Müller,,212.555.0806,U.S.,Chicago,2024-11-19,1965-03-08,Silver,false
+C000072,José,Wilson,josé.wilson4@gmail.com,091-98765-00477,IND,New Delhi,20221106,1989-08-12,GOLD,Yes
+C000190,Linda,Wilson,,2125550871,US,Chicago,03/23/2025,1978-04-20,,false
+C000091,James,Nguyen,james.nguyen46@yahoo.com,2125550619,US,Austin,17-09-2026,1974-02-12,Gold,
+C000397,Omar,Nguyen,omar.nguyen19@yahoo.com,212.555.0694,U.S.,New York,20251115,1989-03-04,gold ,Y
+C000387,David,Smith,david.smith44@outlook.com,+44 20 7946 0229,GB,London,22-05-2026,1900-01-01,silver,Y
+C000333,JENNIFER,O'BRIEN,jennifer.obrien9@yahoo.com,+91 98765 00042,India,Bengaluru,2025-03-06,1956-08-27,GOLD,
+C000402,Chloé,Khan,chloé.khan37@yahoo.com,212.555.0983,US,Austin,2023-03-22,1956-09-29,Platinum,Yes
+C000292,Chloé,García,chloé.garcía12@gmail.com,+1 (212) 555-0070,USA,Seattle,2024-06-17,1995-02-14,Bronze,N
+C000186,José,O'Brien,josé.obrien22@gmail.com,+971 50 123 0152,AE,Dubai,2025-10-20,1992-03-04,Platinum,N
+C000180,John,Gupta,,9876500039,IN,Mumbai,2021-12-11,,gold ,TRUE
+C000225,Diya,García,diya.garcía59@yahoo.com,212.555.0601,U.S.,New York,20230913,1958-05-28,Gold,0
+C000213,Mohammed,Smith,mohammed.smith48@outlook.com,+971 50 123 0556,AE,Dubai,10/31/2025,1968-12-09,gold ,Y
+C000383,Noah,Reddy,noah.reddy51@yahoo.com,2125550815,U.S.,New York,01/22/2021,1966-11-26,Silver,No
+C000074,Ananya,Reddy,ananya.reddy22@outlook.com,050-123-0845,UAE,Abu Dhabi,20250402,1962-10-25,Gold,N
+C000394, Aarav ,Nguyen,aarav.nguyen48@outlook.com,,United Kingdom,Manchester,06/04/2023,1955-06-05,silver,TRUE
+C000363,James,Reddy,james.reddy91@gmail.com,,U.S.,Austin,01-12-2025,1956-06-26,silver,
+C000268,Mia,Evans,MIA.EVANS5@OUTLOOK.COM,020 7946 0580,GB,Birmingham,2024-08-28,1999-12-10,silver,0
+C000193,Oliver,Al Mansouri,oliver.almansouri90@icloud.com,+1 (212) 555-0426,United States,Chicago,08-04-2026,1960-06-03,GOLD,
+C000447,Linda,Davies,linda.davies18@icloud.com,2125550990,U.S.,Austin,07-01-2024,1955-10-13,,Yes
+C000082,Aarav,O'Brien,aarav.obrien67@gmail.com,+971 50 123 0430,United Arab Emirates,Abu Dhabi,2025-07-28,1989-02-18,Gold,
+C000163,José,Evans,JOSÉ.EVANS67@YAHOO.COM,2125550582,United States,New York,2025-11-06,1966-10-02,Silver,Y
+C000257,Aarav,García,aarav.garcía9@icloud.com,+971 50 123 0883,UAE,Abu Dhabi,2022-04-04,,gold ,0
+C000423,Michael,Reddy,michael.reddy18@outlook.com,020 7946 0887,UK,Manchester,2025-12-12,1987-09-14,silver,No
+C000191,Ananya,Al Mansouri,ananya.almansouri19@icloud.com,+44 20 7946 0746,GB,Manchester,06-04-2024,1971-08-17,gold ,1
+C000160, James ,Lee,james.lee53@outlook.com,020 7946 0369,UK,Manchester,2023-10-19,,Gold,TRUE
+C000126, Mary ,Gupta,mary.gupta42@icloud.com,050-123-0263,UAE,Dubai,2023-01-08,2001-03-04,Bronze,1
+C000238,Mia,Johnson,mia.johnson37@outlook.com,212.555.0046,United States,Seattle,2023-07-07,1974-06-29,Silver,1
+C000151,Noah,Khan,noah.khan60@gmail.com,2125550944,US,Austin,02/16/2024,1958-05-09,GOLD,No
+C000252,Michael,Nguyen,michael.nguyen63@outlook.com,212.555.0307,U.S.,Seattle,20260619,,silver,Yes
+C000111,Layla,Iyer,layla.iyer25@icloud.com,+971 50 123 0633,AE,Dubai,20240416,1977-12-01,,1
+C000182,ROBERT,MÜLLER,robert.müller45@gmail.com,+91 98765 00812,IND,Mumbai,2024-12-08,1994-12-21,,false
+C000147,Oliver,Evans,oliver.evans34@gmail.com,+1 (212) 555-0318,United States,Seattle,12/05/2023,,Bronze,
+C000161,Oliver,Smith,oliver.smith50@icloud.com,050-123-0655,UAE,Abu Dhabi,04-07-2025,1997-10-05,Bronze,Yes
+C000211, Fatima ,Al Mansouri,fatima.almansouri81@outlook.com,+1 (212) 555-0495,US,New York,11/27/2025,1957-04-04,Bronze,TRUE
+C000448, Harry ,Brown,HARRY.BROWN6@ICLOUD.COM,+91 98765 00838,India,Mumbai,08/01/2026,1982-04-22,Gold,
+C000373,Arjun,Brown,arjun.brown45@outlook.com,,AE,Dubai,31-08-2024,1900-01-01,,false
+C000220,Michael,Wilson,michael.wilson81@gmail,,IN,Mumbai,09/23/2022,1969-02-26,Platinum,0
+C000041,David,Johnson,david.johnson77@outlook.com,+1 (212) 555-0949,USA,New York,01/31/2025,2002-04-28,Bronze,0
+C000005,John,Davies,john.davies43@outlook.com,9876500665,IND,Mumbai,01/24/2022,2002-08-14,GOLD,0
+C000322,Jennifer,Taylor,jennifer.taylor8@yahoo.com,2125550837,USA,New York,02/25/2026,1960-06-05,Gold,0
+C000004,Jennifer,Khan,jennifer.khan58@yahoo.com,091-98765-00087,IN,New Delhi,25-08-2022,1992-05-09,GOLD,TRUE
+C000320,David,Taylor,david.taylor67@gmail.com,9876500459,India,New Delhi,2022-12-18,2031-04-12,Bronze,Y
+C000313,Søren,O'Brien,søren.obrien7@yahoo.com,+91 98765 00150,IND,Mumbai,25-04-2021,1966-10-08,,Y
+C000236,Saanvi,Patel,saanvi.patel58@yahoo.com,9876500617,IND,New Delhi,2024-02-25,1960-04-14,gold ,0
+C000338,Vihaan,Taylor,vihaan.taylor95@icloud.com,091-98765-00525,IND,New Delhi,19-02-2022,1959-12-27,Bronze,false
+C000297,Linda,Iyer,linda.iyer92@icloud.com,+44 20 7946 0195,GB,London,28-05-2024,1979-07-15,Gold,false
+C000299,Ananya,Al Mansouri,ananya.almansouri66@gmail.com,+971 50 123 0886,United Arab Emirates,Dubai,2021-02-10,2003-12-02,,Y
+C000378,Chloé,Al Mansouri,chloé.almansouri39@icloud.com,+971 50 123 0027,United Arab Emirates,Abu Dhabi,2022-01-20,1964-06-03,Platinum,
+C000271,Mohammed,Brown,mohammed.brown58@yahoo.com,+91 98765 00463,IN,New Delhi,2021-05-07,1998-02-17,Platinum,TRUE
+C000108,Diya,Hassan,diya.hassan88@yahoo.com,212.555.0213,US,Chicago,05/16/2022,1993-06-29,GOLD,Yes
+C000077,Vihaan,García,vihaan.garcía27@yahoo.com,212.555.0340,U.S.,Austin,11-09-2022,1970-01-07,Silver,1
+C000267,Aarav,Patel,aarav.patel19@gmail.com,+44 20 7946 0643,GB,Birmingham,06/11/2026,1990-10-05,Platinum,TRUE
+C000201,Oliver,Hassan,oliver.hassan33@gmail.com,212.555.0891,USA,Austin,2021-04-01,1959-11-20,Bronze,N
+C000003,Saanvi,Wilson,saanvi.wilson54@gmail.com,2125550692,US,Chicago,19-09-2024,1992-10-12,Silver,false
+C000235,NOAH,PATEL,noah.patel49@icloud.com,+44 20 7946 0344,GB,Birmingham,2025-03-07,1900-01-01,GOLD,TRUE
+C000110,Noah,Patel,noah.patel96@outlook.com,2125550394,US,Chicago,20260210,1973-11-30,Platinum,Y
+C000265,Aarav,Taylor,aarav.taylor61@yahoo.com,020 7946 0210,UK,London,2025-06-06,1994-01-27,Platinum,N
+C000388,Robert,Brown,robert.brown26@yahoo.com,,USA,Austin,11/06/2022,1967-04-18,silver,N
+C000143,Zoé,Sharma,zoé.sharma75@outlook.com,020 7946 0166,GB,Birmingham,2023-12-24,1960-09-08,,1
+C000136,Amelia,Taylor,amelia.taylor52@icloud.com,+91 98765 00455,IN,New Delhi,02-05-2026,1971-03-04,Platinum,0
+C000273,Linda,Johnson,linda.johnson24@icloud.com,+1 (212) 555-0027,U.S.,Austin,2022-01-20,1992-12-08,Gold,0
+C000283,Vihaan,Iyer,vihaan.iyer66@outlook.com,+44 20 7946 0248,U.K.,Birmingham,2021-03-25,1973-02-04,gold ,false
+C000368,Zoé,Müller,zoé.müller14@gmail.com,+1 (212) 555-0762,U.S.,New York,01/20/2026,2031-04-12,GOLD,Yes
+C000369, Jennifer ,Müller,JENNIFER.MÜLLER63@ICLOUD.COM,,USA,Chicago,20220521,1959-05-16,Platinum,0
+C000303,Omar,Evans,omar.evans34@gmail.com,+1 (212) 555-0338,United States,New York,29-07-2023,1972-10-21,silver,1
+C000107,Noah,Sharma,noah.sharma92@gmail.com,2125550663,USA,New York,2021-12-17,1959-11-13,gold ,
+C000264,Zoé,Smith,zoé.smith26@yahoo.com,+1 (212) 555-0159,United States,Austin,20230519,1985-03-12,silver,Yes
+C000318,Noah,Johnson,noah.johnson5@yahoo.com,091-98765-00765,IN,Bengaluru,10/01/2024,1959-04-09,Platinum,0
+C000173,DIYA,PATEL,diya.patel19@yahoo.com,020 7946 0360,GB,Birmingham,05/25/2025,1996-09-28,Platinum,0
+C000032,Arjun,Evans,arjun.evans42@gmail.com,+971 50 123 0514,UAE,Abu Dhabi,2024-12-11,1970-02-20,Gold,TRUE
+C000089,Mohammed,Hassan,mohammed.hassan54@yahoo.com,2125550067,United States,Chicago,2025-08-20,1900-01-01,gold ,TRUE
+C000319,Saanvi,Sharma,saanvi.sharma81@gmail.com,+971 50 123 0442,AE,Abu Dhabi,11-09-2023,2001-05-30,GOLD,0
+C000335,Zoé,Taylor,ZOÉ.TAYLOR67@OUTLOOK.COM,020 7946 0565,UK,Birmingham,20230911,1988-03-06,GOLD,N
+C000323,Arjun,O'Brien,arjun.obrien19@icloud.com,212.555.0255,USA,Austin,2026-08-24,1975-07-16,GOLD,No
+C000198,Noah,Wilson,noah.wilson5@outlook.com,,UK,Manchester,2023-08-30,1980-09-20,GOLD,N
+C000109,Mia,Evans,mia.evans11@gmail.com,,US,New York,24-05-2024,,GOLD,TRUE
+C000420,Michael,Johnson,michael.johnson90@yahoo.com,020 7946 0040,GB,Birmingham,22-11-2024,1971-04-13,,0
+C000205,Emma,Wilson,emma.wilson76@gmail,+1 (212) 555-0266,U.S.,Chicago,03-12-2021,1962-12-21,gold ,1
+C000119,John,Nguyen,john.nguyen98@yahoo,+91 98765 00046,IN,Mumbai,20220812,1963-09-17,silver,Y
+C000249,Mia,García,mia.garcía48@gmail.com,+1 (212) 555-0013,USA,Chicago,20231127,1969-02-27,Platinum,Y
+C000424,Ananya,García,ananya.garcía31@outlook.com,091-98765-00258,India,Mumbai,03/27/2021,,Platinum,Y
+C000152, Søren ,Hassan,søren.hassan89@outlook.com,212.555.0532,USA,New York,12/18/2021,1990-05-03,GOLD,No
+C000048,James,Gupta,james.gupta83@outlook,020 7946 0717,UK,Birmingham,20251122,1997-06-28,Silver,TRUE
+C000075,Amelia,Lee,amelia.lee97@yahoo.com,212.555.0618,United States,Seattle,2021-03-08,1997-08-25,,Y
+C000331,Linda,Iyer,linda.iyer72@yahoo.com,050-123-0288,United Arab Emirates,Abu Dhabi,28-01-2024,1962-10-13,Bronze,N
+C000218,Harry,Lee,,2125550017,United States,Chicago,2024-01-23,1985-08-29,Bronze,No
+C000049,Harry,Evans,harry.evans1@icloud.com,020 7946 0554,UK,London,16-06-2021,1984-08-14,,Yes
+C000300,Diya,Wilson,diya.wilson3@outlook.com,020 7946 0789,U.K.,Birmingham,13-06-2023,1997-04-30,Silver,N
+C000359,Vihaan,Hassan,vihaan.hassan81@outlook.com,091-98765-00645,IND,Mumbai,08/28/2023,1994-12-28,Silver,TRUE
+C000399,Linda,Iyer,linda.iyer25@gmail.com,9876500337,IN,Mumbai,11/05/2023,1982-01-03,silver,No
+C000114,Linda,Nguyen,linda.nguyen40@outlook.com,+971 50 123 0665,AE,Abu Dhabi,20231001,2001-07-18,Platinum,Yes
+C000187, Noah ,O'Brien,noah.obrien82@yahoo.com,+91 98765 00620,India,Mumbai,20251119,,GOLD,N
+C000459,Mohammed,Reddy,MOHAMMED.REDDY60@GMAIL.COM,+44 20 7946 0838,United Kingdom,Manchester,2026-10-06,1976-07-02,GOLD,Yes
+C000024,Mary,García,mary.garcía71@yahoo.com,+1 (212) 555-0019,USA,Austin,10/02/2022,1967-10-19,Silver,N
+C000242,Michael,Patel,michael.patel40@gmail.com,9876500176,IND,Mumbai,09/19/2026,1983-07-05,gold ,false
+C000042,Chloé,Iyer,chloé.iyer53@yahoo.com,9876500852,IND,Bengaluru,2025-10-20,1991-10-14,,Yes
+C000206,MARY,KHAN,mary.khan93@icloud.com,9876500442,IND,New Delhi,2024-08-21,2001-01-26,gold ,Y
+C000057, Mia ,Khan,mia.khan12@outlook,212.555.0229,United States,Chicago,20231122,1993-02-02,Bronze,
+C000154,Saanvi,Khan,saanvi.khan1@outlook.com,212.555.0965,USA,Chicago,20250503,1975-04-27,,Yes
+C000314,Fatima,Gupta,fatima.gupta32@icloud.com,020 7946 0712,U.K.,Manchester,20220712,1999-01-27,silver,Yes
+C000441,Layla,Reddy,layla.reddy96@yahoo.com,2125550826,US,Austin,17-03-2025,,Bronze,
+C000122,Patricia,Johnson,patricia.johnson5@gmail.com,+1 (212) 555-0679,U.S.,New York,26-03-2025,1976-01-25,Platinum,Yes
+C000253,Zoé,Sharma,zoé.sharma55@gmail.com,2125550043,USA,Seattle,13-01-2026,1973-03-19,gold ,N
+C000306,Patricia,Al Mansouri,patricia.almansouri64@yahoo.com,,USA,Seattle,09/03/2023,2003-01-19,,TRUE
+C000022,Oliver,Al Mansouri,oliver.almansouri47@gmail.com,,U.S.,New York,10-08-2024,1957-06-06,GOLD,No
+C000305,Patricia,Gupta,patricia.gupta13@outlook.com,9876500940,IN,Mumbai,12/10/2023,1997-08-31,Silver,Y
+C000053,Saanvi,Gupta,SAANVI.GUPTA95@OUTLOOK.COM,2125550667,US,Austin,20250312,1998-11-14,Gold,
+C000358,Patricia,Reddy,patricia.reddy89@yahoo.com,020 7946 0386,United Kingdom,Manchester,20220715,1999-07-05,Bronze,TRUE
+C000063,Mohammed,Reddy,,+44 20 7946 0806,U.K.,Birmingham,20221023,2031-04-12,Bronze,Yes
+C000071,Vihaan,Brown,vihaan.brown7@icloud.com,9876500805,India,New Delhi,2025-08-12,1986-04-30,silver,Y
+C000047,Isla,Johnson,isla.johnson40@yahoo.com,+91 98765 00681,IND,Mumbai,13-04-2023,,GOLD,false
+C000170,Patricia,Patel,patricia.patel39@icloud.com,+44 20 7946 0654,U.K.,Manchester,06-06-2023,1991-08-17,silver,1
+C000261,Linda,Davies,LINDA.DAVIES5@YAHOO.COM,050-123-0473,AE,Dubai,2022-12-14,1981-12-12,Platinum,0
+C000064,LINDA,HASSAN,LINDA.HASSAN50@YAHOO.COM,212.555.0745,United States,Chicago,03-11-2022,1970-03-23,silver,Yes
+C000080,Noah,Khan,noah.khan22@yahoo.com,9876500708,IND,Bengaluru,2021-03-15,1965-09-06,Gold,No
+C000350,Noah,García,noah.garcía39@yahoo.com,212.555.0979,U.S.,Austin,18-09-2024,1900-01-01,Gold,No
+C000289,Robert,Lee,robert.lee86@outlook.com,+1 (212) 555-0294,USA,Chicago,20240822,1996-12-30,silver,
+C000243,Aarav,Evans,AARAV.EVANS33@GMAIL.COM,091-98765-00550,IND,New Delhi,20230303,2000-03-10,GOLD,
+C000130, Emma ,Davies,emma.davies56@gmail.com,020 7946 0277,United Kingdom,London,16-07-2023,1957-11-06,Gold,1
+C000308,Robert,Nguyen,robert.nguyen60@icloud.com,050-123-0222,UAE,Abu Dhabi,20241001,1962-02-01,Silver,TRUE
+C000008,Patricia,Smith,patricia.smith11@yahoo.com,+44 20 7946 0724,United Kingdom,Manchester,20220710,1962-11-13,Bronze,Y
+C000258,Omar,Brown,omar.brown33@yahoo.com,+971 50 123 0288,UAE,Dubai,13-02-2026,1981-10-31,Bronze,Yes
+C000112,Linda,Khan,,2125550671,United States,Austin,23-04-2026,1979-08-07,Gold,TRUE
+C000128,Zoé,Taylor,zoé.taylor45@icloud.com,,United Kingdom,London,12/04/2025,1972-03-08,Bronze,false
+C000035,Noah,Patel,noah.patel58@yahoo.com,,US,Seattle,06/01/2023,1961-06-30,Bronze,N
+C000256, James ,Johnson,james.johnson5@yahoo.com,+44 20 7946 0140,UK,Birmingham,20240401,1994-07-28,Platinum,N
+C000156,Fatima,Nguyen,,091-98765-00428,India,Mumbai,2021-08-19,1975-10-15,Bronze,N
+C000431,Emma,Evans,emma.evans15@yahoo.com,+971 50 123 0415,UAE,Abu Dhabi,20211104,2031-04-12,,Y
+C000164,Arjun,Al Mansouri,arjun.almansouri70@outlook,+1 (212) 555-0375,USA,Seattle,11/11/2025,1989-02-22,Gold,1
+C000452,Amelia,Iyer,amelia.iyer19@gmail.com,212.555.0627,United States,Seattle,2026-10-08,2003-09-21,Silver,1
+C000009, Isla ,Taylor,isla.taylor72@outlook.com,212.555.0125,US,Austin,08-09-2023,2001-01-14,Bronze,Yes
+C000185,Aarav,Gupta,aarav.gupta20@outlook.com,+1 (212) 555-0275,U.S.,Austin,2023-05-15,1984-04-10,GOLD,false
+C000361,Mary,Nguyen,mary.nguyen78@gmail.com,+44 20 7946 0533,GB,London,11/04/2025,1957-06-04,Bronze,TRUE
+C000065,Aarav,Davies,aarav.davies3@gmail.com,+44 20 7946 0900,UK,Birmingham,2023-09-05,1968-09-24,silver,No
+C000124,José,Evans,josé.evans38@yahoo.com,2125550227,United States,Chicago,06/06/2026,,GOLD,Yes
+C000015,Noah,Lee,noah.lee44@yahoo.com,,IND,Mumbai,18-09-2021,1987-01-05,Silver,0
+C000277,Oliver,Al Mansouri,oliver.almansouri62@gmail.com,+44 20 7946 0638,UK,London,12-05-2026,2031-04-12,Gold,1
+C000058,Søren,Patel,søren.patel80@icloud.com,091-98765-00157,IN,Bengaluru,21-06-2024,1984-02-07,Platinum,1
+C000326,Saanvi,Nguyen,saanvi.nguyen29@icloud.com,9876500134,India,Mumbai,26-05-2023,1970-07-23,Platinum,N
+C000095,Linda,Wilson,linda.wilson58@gmail.com,050-123-0984,United Arab Emirates,Abu Dhabi,11-09-2024,1961-05-28,Silver,No
+C000141,Oliver,Müller,oliver.müller20@icloud.com,212.555.0029,USA,New York,2021-10-14,,Gold,Yes
+C000408,Mary,Khan,mary.khan6@outlook.com,+91 98765 00097,IND,New Delhi,06/15/2026,2031-04-12,gold ,Yes
+C000145, Zoé ,Lee,zoé.lee20@outlook.com,2125550463,USA,New York,04/03/2026,1963-05-16,,TRUE
+C000228,Layla,Lee,layla.lee22@icloud.com,+1 (212) 555-0522,United States,Austin,2026-07-16,1988-05-10,GOLD,No
+C000351,Isla,Müller,isla.müller67@icloud.com,020 7946 0025,UK,Birmingham,24-04-2024,1956-06-17,Bronze,Yes
+C000434,Aarav,García,aarav.garcía11@yahoo.com,+1 (212) 555-0383,US,Seattle,2025-08-08,1987-04-22,GOLD,
+C000276,Emma,Iyer,emma.iyer22@yahoo.com,+44 20 7946 0303,UK,Manchester,04-08-2021,1982-07-15,,
+C000068,John,Wilson,john.wilson46@icloud.com,+44 20 7946 0239,United Kingdom,Manchester,2023-09-25,,Bronze,Yes
+C000234,Layla,Smith,layla.smith20@yahoo.com,+971 50 123 0181,AE,Abu Dhabi,2021-04-06,1975-08-13,Bronze,Y
+C000167,Zoé,Taylor,zoé.taylor94@yahoo,020 7946 0239,United Kingdom,Birmingham,09/18/2025,2001-01-16,Silver,
+C000204,JOSÉ,TAYLOR,josé.taylor43@outlook.com,9876500343,IN,New Delhi,2026-05-06,1974-12-11,gold ,TRUE
+C000312,Oliver,Hassan,,,USA,Seattle,20260623,1977-09-16,Silver,TRUE
+C000294,Arjun,Gupta,arjun.gupta5@outlook,+1 (212) 555-0510,US,Seattle,20240508,2003-03-23,gold ,
+C000138,Emma,Sharma,emma.sharma55@outlook.com,+44 20 7946 0905,U.K.,Manchester,20250722,1961-12-24,gold ,false
+C000245,Linda,Khan,linda.khan75@yahoo.com,091-98765-00831,IN,Bengaluru,2022-02-19,1959-07-13,Gold,N
+C000432,Patricia,Davies,patricia.davies42@icloud,020 7946 0377,UK,Birmingham,08/12/2026,1978-06-18,,false
+C000033,Linda,Müller,linda.müller68@outlook.com,,GB,London,2021-03-04,1967-02-05,GOLD,Yes
+C000395,Vihaan,Evans,vihaan.evans17@gmail.com,,UK,London,10/09/2024,1955-07-12,gold ,Y
+C000345,Layla,García,layla.garcía49@icloud,2125550552,U.S.,Chicago,20241121,1974-07-01,Silver,TRUE
+C000183,Michael,Brown,michael.brown84@yahoo.com,+91 98765 00615,IN,New Delhi,20241012,2000-11-16,Platinum,1
+C000398,Omar,Brown,OMAR.BROWN89@OUTLOOK.COM,,USA,Seattle,20240710,1996-12-02,,TRUE
+C000372, Jennifer ,Johnson,jennifer.johnson35@gmail.com,+44 20 7946 0506,United Kingdom,Manchester,2022-10-19,2003-08-23,gold ,0
+C000403,MIA,AL MANSOURI,mia.almansouri81@outlook.com,+44 20 7946 0036,United Kingdom,London,20250418,2001-09-10,GOLD,N
+C000189,Aarav,Taylor,AARAV.TAYLOR72@GMAIL.COM,091-98765-00972,IND,New Delhi,2026-04-21,1959-02-27,gold ,No
+C000307,Patricia,Khan,PATRICIA.KHAN18@OUTLOOK.COM,+1 (212) 555-0728,US,Chicago,2024-11-08,1962-09-03,Platinum,1
+C000148,Fatima,Taylor,fatima.taylor26@icloud.com,2125550313,USA,Seattle,16-08-2021,1962-12-30,Gold,TRUE
+C000055,Patricia,Khan,patricia.khan63@outlook.com,+971 50 123 0059,United Arab Emirates,Dubai,20230108,2031-04-12,,TRUE
+C000260,Søren,Davies,søren.davies48@outlook.com,2125550820,USA,Austin,04/16/2023,2004-02-17,silver,TRUE
+C000302,David,O'Brien,david.obrien4@gmail.com,+1 (212) 555-0382,United States,Austin,2022-08-29,1982-03-21,silver,Y
+C000371,Arjun,Iyer,arjun.iyer19@outlook.com,+91 98765 00493,IND,New Delhi,20-05-2024,1955-01-21,gold ,Y
+C000352,Amelia,Johnson,amelia.johnson77@yahoo.com,020 7946 0356,United Kingdom,Birmingham,02/06/2022,1961-12-30,silver,
+C000094,Ananya,Davies,ananya.davies18@gmail.com,091-98765-00274,IND,Bengaluru,03-10-2025,1960-08-28,Silver,Y
+C000062,Oliver,Taylor,oliver.taylor50@icloud.com,9876500460,IND,Bengaluru,05/25/2026,1984-07-25,GOLD,
+C000353,James,Brown,james.brown68@outlook.com,020 7946 0839,UK,London,27-04-2026,1991-09-08,,No
+C000389,José,Wilson,josé.wilson72@icloud.com,+44 20 7946 0944,UK,London,20240724,1961-03-08,Silver,
+C000334,Mary,Müller,mary.müller50@icloud.com,+44 20 7946 0813,United Kingdom,Manchester,08/01/2025,2003-09-03,Platinum,1
+C000458,Emma,Smith,EMMA.SMITH93@GMAIL.COM,050-123-0342,UAE,Dubai,2026-10-04,1983-12-30,gold ,TRUE
+C000437,Mia,Brown,mia.brown83@yahoo.com,212.555.0445,USA,Chicago,11-04-2026,1999-04-05,GOLD,Yes
+C000216,Vihaan,Johnson,vihaan.johnson16@icloud.com,+44 20 7946 0788,GB,Manchester,01-01-2026,2001-06-01,Gold,N
+C000337,Robert,Evans,robert.evans79@yahoo.com,091-98765-00779,IN,Bengaluru,2024-01-26,1988-05-02,silver,No
+C000159,Mohammed,Davies,,+91 98765 00868,India,Bengaluru,08/02/2024,2003-09-05,,TRUE
+C000150,Michael,Taylor,michael.taylor82@gmail.com,+44 20 7946 0460,UK,London,20240727,1992-07-15,,Yes
+C000133,Vihaan,Sharma,vihaan.sharma74@outlook,+971 50 123 0052,AE,Abu Dhabi,2025-11-20,1956-07-27,silver,
+C000309,Chloé,Smith,CHLOÉ.SMITH82@ICLOUD.COM,2125550514,United States,Austin,20220426,1975-02-11,GOLD,0
+C000262,Mary,O'Brien,mary.obrien4@gmail.com,050-123-0200,United Arab Emirates,Abu Dhabi,15-03-2025,1991-02-05,,Y
+C000199, Mohammed ,Wilson,mohammed.wilson44@gmail.com,9876500916,IN,Mumbai,20210206,1986-05-27,GOLD,TRUE
+C000275,Linda,Wilson,linda.wilson4@yahoo.com,020 7946 0891,United Kingdom,Manchester,2024-05-30,1992-10-17,,0
+C000316,Isla,Evans,ISLA.EVANS65@GMAIL.COM,212.555.0233,USA,Seattle,2022-05-23,1992-07-07,silver,TRUE
+C000027,Aarav,Davies,aarav.davies30@outlook.com,+971 50 123 0891,UAE,Abu Dhabi,2022-10-26,1986-06-22,,TRUE
+C000295, Arjun ,Lee,arjun.lee1@yahoo.com,091-98765-00309,IN,New Delhi,2025-01-20,1967-09-15,Platinum,N
+C000278,Vihaan,Johnson,vihaan.johnson81@outlook.com,212.555.0243,US,Chicago,04/11/2025,2002-06-10,,
+C000386,Aarav,Reddy,aarav.reddy45@outlook.com,020 7946 0504,UK,London,20230709,1962-01-14,Silver,false
+C000162,Patricia,Johnson,patricia.johnson33@outlook.com,+971 50 123 0495,United Arab Emirates,Dubai,20260102,1956-01-22,Gold,false
+C000438,Mia,Sharma,mia.sharma84@outlook.com,+91 98765 00364,IN,Bengaluru,2022-09-19,,Silver,Yes
+C000407,Mia,Lee,mia.lee94@outlook.com,212.555.0731,US,Austin,07/25/2023,1969-02-28,silver,Yes
+C000380,Fatima,Nguyen,fatima.nguyen29@icloud.com,9876500422,India,Bengaluru,05-01-2024,1994-03-19,Bronze,
+C000465,Ananya,Davies,ANANYA.DAVIES64@YAHOO.COM,+44 20 7946 0171,United Kingdom,London,2026-10-08,,silver,0
+C000177,ISLA,DAVIES,isla.davies62@gmail.com,9876500819,India,Mumbai,2025-05-08,1987-07-22,Platinum,Y
+C000066,Ananya,Al Mansouri,ananya.almansouri31@icloud.com,+91 98765 00290,IN,Mumbai,07/12/2025,1966-05-28,,TRUE
+C000384,Diya,Khan,diya.khan43@icloud.com,2125550036,United States,Chicago,2022-08-09,1982-08-30,Silver,false
+C000456,Mary,Davies,MARY.DAVIES46@YAHOO.COM,+1 (212) 555-0357,United States,New York,2026-10-07,1985-07-31,GOLD,false
+C000137,Layla,Brown,layla.brown55@gmail.com,+971 50 123 0921,UAE,Dubai,11-08-2023,1987-04-08,Gold,
+C000069,José,Al Mansouri,josé.almansouri65@gmail.com,020 7946 0606,United Kingdom,London,2023-01-19,1983-06-26,Bronze,1
+C000342,Saanvi,Taylor,,+971 50 123 0696,AE,Abu Dhabi,18-07-2024,1998-09-02,Gold,false
+C000231,Jennifer,Hassan,jennifer.hassan62@icloud.com,050-123-0698,AE,Abu Dhabi,2025-07-03,1999-08-04,gold ,1
+C000060,Vihaan,Davies,vihaan.davies50@yahoo.com,2125550074,United States,Austin,20240405,1900-01-01,GOLD,TRUE
+C000023,Harry,Davies,,020 7946 0612,U.K.,Birmingham,25-06-2025,1996-07-27,Bronze,1
+C000286,Robert,Davies,ROBERT.DAVIES67@OUTLOOK.COM,020 7946 0068,U.K.,Manchester,20240414,1980-04-25,Platinum,Yes
