@@ -1,1 +1,1 @@
-
+transaction_id,line_no,store_code,txn_timestamp,sku,quantity,unit_price,discount,payment_method,cashier_id,customer_id
